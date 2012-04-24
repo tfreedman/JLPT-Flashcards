@@ -128,6 +128,7 @@ namespace JLPT {
                 else {
                     modified += kana[i];
                 }
+                //modified += "|";
             }
             return modified;
         }

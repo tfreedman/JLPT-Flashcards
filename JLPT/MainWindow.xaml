@@ -1,9 +1,11 @@
 ﻿<Window x:Class="JLPT.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="JLPT" Height="350" Width="525">
-    <Grid>
-        <TextBox HorizontalAlignment="Stretch" Name="content" IsReadOnly="True" Margin="0,0,0,20" />
+        Title="JLPT" Height="800" Width="480">
+    <Grid Background="Black">
         <Button Content="Get New Word" Height="23" HorizontalAlignment="Stretch" Name="GetWord" VerticalAlignment="Bottom" Click="GetWord_Click" />
+        <TextBlock Height="53" HorizontalAlignment="Center" Margin="12,130,12,0" Name="content" Text="" VerticalAlignment="Top" Width="434" FontSize="32" TextAlignment="Center" Foreground="White" />
+        <TextBlock Height="31" HorizontalAlignment="Center" Margin="0,93,0,0" Name="furigana" Text="" VerticalAlignment="Top" Width="434" TextAlignment="Center" FontSize="20" Foreground="White" />
+        <TextBlock Height="56" HorizontalAlignment="Center" Margin="0,189,0,0" Name="definition" Text="" VerticalAlignment="Top" Width="434" TextAlignment="Center" Foreground="White" FontSize="24" FontStyle="Italic" />
     </Grid>
 </Window>

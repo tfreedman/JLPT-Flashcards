@@ -68,7 +68,15 @@ namespace JLPT {
         private void GetWord_Click(object sender, RoutedEventArgs e) {
             Random random = new Random();
             int rand = random.Next(1, dataSet.GetLength(0));
-            content.Text = "";
+            //rand = 394; //Debug output
+            content.Text = JapaneseRomajiConverter.KanaToRomaji(dataSet[rand, 1]);
+            furigana.Text = dataSet[rand, 1];
+            definition.Text = dataSet[rand, 2];
+       }
+
+        private void DebugOutput(object sender, RoutedEventArgs e) {
+            Random random = new Random();
+            int rand = random.Next(1, dataSet.GetLength(0));
             for (int i = 0; i < dataSet.GetLength(1); i++) {
                 content.Text += dataSet[0, i] + ": ";
                 content.Text += dataSet[rand, i] + "\n";
@@ -80,9 +88,7 @@ namespace JLPT {
             content.Text += "\n";
             content.Text += "Hiragana: " + ConvertToHiragana(dataSet[rand, 1]);
             content.Text += "\n";
-            content.Text += "\n";
 
-            //kana = converter.KatakanaToHiragana(kana);
         }
 
         private string ConvertToHiragana(String toHiragana) {
