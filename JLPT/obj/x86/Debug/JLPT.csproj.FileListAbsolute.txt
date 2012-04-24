@@ -1,0 +1,15 @@
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\JLPT.exe
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\JLPT.pdb
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\MainWindow.baml
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\MainWindow.g.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\App.g.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT_MarkupCompile.cache
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT.g.resources
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT.Properties.Resources.resources
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT.exe
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT.pdb
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.dll
+c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.pdb

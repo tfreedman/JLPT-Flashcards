@@ -1,0 +1,16 @@
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Tyler\Desktop\csv\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Tyler\Documents\Visual Studio 2010\Projects\JLPT\LumenWorks.Framework.IO\obj\Debug\LumenWorks.Framework.IO.pdb
