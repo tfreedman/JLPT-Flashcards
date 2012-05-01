@@ -13,3 +13,18 @@ c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLP
 c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\obj\x86\Debug\JLPT.pdb
 c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.dll
 c:\users\tyler\documents\visual studio 2010\Projects\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\JLPT.exe
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\JLPT.pdb
+C:\Users\Tyler\JLPT\JLPT\bin\Debug\JLPT.exe
+C:\Users\Tyler\JLPT\JLPT\bin\Debug\JLPT.pdb
+C:\Users\Tyler\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\Tyler\JLPT\JLPT\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\MainWindow.baml
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\App.g.cs
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\JLPT_MarkupCompile.cache
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\JLPT.g.resources
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\JLPT.Properties.Resources.resources
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tyler\JLPT\JLPT\obj\x86\Debug\GenerateResource.write.1.tlog

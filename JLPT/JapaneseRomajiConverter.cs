@@ -17,6 +17,7 @@
 using System;
 using Kelebron.Utils.Japanese;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace JLPT {
 
@@ -123,12 +124,11 @@ namespace JLPT {
                         modified += "-";
                 }
                 else if (kana[i] == 'ー') {
-                    modified += modified[i];
+                    modified += modified[modified.Length - 1];
                 }
                 else {
                     modified += kana[i];
                 }
-                //modified += "|";
             }
             return modified;
         }

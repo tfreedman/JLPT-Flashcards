@@ -15,6 +15,7 @@ using System.IO;
 using System.Collections;
 using LumenWorks.Framework.IO.Csv;
 using Kelebron.Utils.Japanese;
+using System.Diagnostics;
 
 namespace JLPT {
     /// <summary>
@@ -68,10 +69,10 @@ namespace JLPT {
         private void GetWord_Click(object sender, RoutedEventArgs e) {
             Random random = new Random();
             int rand = random.Next(1, dataSet.GetLength(0));
-            //rand = 394; //Debug output
             content.Text = JapaneseRomajiConverter.KanaToRomaji(dataSet[rand, 1]);
             furigana.Text = dataSet[rand, 1];
             definition.Text = dataSet[rand, 2];
+            Debug.WriteLine(definition.Text);
        }
 
         private void DebugOutput(object sender, RoutedEventArgs e) {
