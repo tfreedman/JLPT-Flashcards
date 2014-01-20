@@ -51,7 +51,7 @@ An example quiz in which katakana is shown - the user is asked to select the rel
 
 This app is published under the BSD license below.
 
-Copyright (c) 2012, Tyler Freedman
+Copyright (c) 2012, Tyler Freedman.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
