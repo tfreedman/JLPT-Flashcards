@@ -29,18 +29,23 @@ Also note that selecting kanji will not return every single word in the word lis
 Screenshots:
 
 ![Loading screen](/JLPT Flashcards/Images/SplashScreenImage.jpg)
+
 The loading screen...
 
 ![Menu](/JLPT Flashcards/Images/screenshot1.png)
+
 The initial menu, with teaching mode selected.
 
 ![Teaching mode](/JLPT Flashcards/Images/screenshot2.png)
+
 Learning the word keisatsu
 
 ![Expanded menu](/JLPT Flashcards/Images/screenshot6.png)
+
 The expanded quiz menu, showing available options.
 
 ![Quiz mode](/JLPT Flashcards/Images/screenshot7.png)
+
 An example quiz in which katakana is shown - the user is asked to select the relevant hiragana.
 
 
