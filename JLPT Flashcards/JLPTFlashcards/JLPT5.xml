@@ -1,0 +1,670 @@
+<?xml version="1.0" ?><WORDDATA>
+	<Word Kanji="会う" Kana="あう" English="to meet" Romaji="au" Katakana="アウ" Hiragana="あう" />
+	<Word Kanji="青" Kana="あお" English="blue" Romaji="ao" Katakana="アオ" Hiragana="あお" />
+	<Word Kanji="青い" Kana="あおい" English="blue" Romaji="aoi" Katakana="アオイ" Hiragana="あおい" />
+	<Word Kanji="赤" Kana="あか" English="red" Romaji="aka" Katakana="アカ" Hiragana="あか" />
+	<Word Kanji="赤い" Kana="あかい" English="red" Romaji="akai" Katakana="アカイ" Hiragana="あかい" />
+	<Word Kanji="明い" Kana="あかるい" English="bright" Romaji="akarui" Katakana="アカルイ" Hiragana="あかるい" />
+	<Word Kanji="秋" Kana="あき" English="autumn" Romaji="aki" Katakana="アキ" Hiragana="あき" />
+	<Word Kanji="開く" Kana="あく" English="to open, to become open" Romaji="aku" Katakana="アク" Hiragana="あく" />
+	<Word Kanji="開ける" Kana="あける" English="to open" Romaji="akeru" Katakana="アケル" Hiragana="あける" />
+	<Word Kanji="上げる" Kana="あげる" English="to give" Romaji="ageru" Katakana="アゲル" Hiragana="あげる" />
+	<Word Kanji="朝" Kana="あさ" English="morning" Romaji="asa" Katakana="アサ" Hiragana="あさ" />
+	<Word Kanji="朝御飯" Kana="あさごはん" English="breakfast" Romaji="asagohan" Katakana="アサゴハン" Hiragana="あさごはん" />
+	<Word Kanji="" Kana="あさって" English="day after tomorrow" Romaji="asatte" Katakana="アサッテ" Hiragana="あさって" />
+	<Word Kanji="足" Kana="あし" English="foot, leg" Romaji="ashi" Katakana="アシ" Hiragana="あし" />
+	<Word Kanji="明日" Kana="あした" English="tomorrow" Romaji="ashita" Katakana="アシタ" Hiragana="あした" />
+	<Word Kanji="" Kana="あそこ" English="over there" Romaji="asoko" Katakana="アソコ" Hiragana="あそこ" />
+	<Word Kanji="遊ぶ" Kana="あそぶ" English="to play, to make a visit" Romaji="asobu" Katakana="アソブ" Hiragana="あそぶ" />
+	<Word Kanji="暖かい" Kana="あたたかい" English="warm" Romaji="atatakai" Katakana="アタタカイ" Hiragana="あたたかい" />
+	<Word Kanji="頭" Kana="あたま" English="head" Romaji="atama" Katakana="アタマ" Hiragana="あたま" />
+	<Word Kanji="新しい" Kana="あたらしい" English="new" Romaji="atarashii" Katakana="アタラシイ" Hiragana="あたらしい" />
+	<Word Kanji="" Kana="あちら" English="there" Romaji="achira" Katakana="アチラ" Hiragana="あちら" />
+	<Word Kanji="暑い" Kana="あつい" English="hot" Romaji="atsui" Katakana="アツイ" Hiragana="あつい" />
+	<Word Kanji="熱い" Kana="あつい" English="hot to the touch" Romaji="atsui" Katakana="アツイ" Hiragana="あつい" />
+	<Word Kanji="厚い" Kana="あつい" English="kind, deep, thick" Romaji="atsui" Katakana="アツイ" Hiragana="あつい" />
+	<Word Kanji="" Kana="あっち" English="over there" Romaji="acchi" Katakana="アッチ" Hiragana="あっち" />
+	<Word Kanji="後" Kana="あと" English="afterwards" Romaji="ato" Katakana="アト" Hiragana="あと" />
+	<Word Kanji="" Kana="あなた" English="you" Romaji="anata" Katakana="アナタ" Hiragana="あなた" />
+	<Word Kanji="兄" Kana="あに" English="(humble) older brother" Romaji="ani" Katakana="アニ" Hiragana="あに" />
+	<Word Kanji="姉" Kana="あね" English="(humble) older sister" Romaji="ane" Katakana="アネ" Hiragana="あね" />
+	<Word Kanji="" Kana="あの" English="that over there" Romaji="ano" Katakana="アノ" Hiragana="あの" />
+	<Word Kanji="" Kana="あの" English="um..." Romaji="ano" Katakana="アノ" Hiragana="あの" />
+	<Word Kanji="" Kana="アパート" English="apartment" Romaji="apaato" Katakana="アパート" Hiragana="あぱ゜と" />
+	<Word Kanji="" Kana="あびる" English="to bathe, to shower" Romaji="abiru" Katakana="アビル" Hiragana="あびる" />
+	<Word Kanji="危ない" Kana="あぶない" English="dangerous" Romaji="abunai" Katakana="アブナイ" Hiragana="あぶない" />
+	<Word Kanji="甘い" Kana="あまい" English="sweet" Romaji="amai" Katakana="アマイ" Hiragana="あまい" />
+	<Word Kanji="" Kana="あまり" English="not very" Romaji="amari" Katakana="アマリ" Hiragana="あまり" />
+	<Word Kanji="雨" Kana="あめ" English="rain" Romaji="ame" Katakana="アメ" Hiragana="あめ" />
+	<Word Kanji="飴" Kana="あめ" English="candy" Romaji="ame" Katakana="アメ" Hiragana="あめ" />
+	<Word Kanji="洗う" Kana="あらう" English="to wash" Romaji="arau" Katakana="アラウ" Hiragana="あらう" />
+	<Word Kanji="" Kana="ある" English="to be,to have (used for inanimate objects)" Romaji="aru" Katakana="アル" Hiragana="ある" />
+	<Word Kanji="歩く" Kana="あるく" English="to walk" Romaji="aruku" Katakana="アルク" Hiragana="あるく" />
+	<Word Kanji="" Kana="あれ" English="that" Romaji="are" Katakana="アレ" Hiragana="あれ" />
+	<Word Kanji="" Kana="いい/よい" English="good" Romaji="ii/yoi" Katakana="イイ/ヨイ" Hiragana="いい/よい" />
+	<Word Kanji="" Kana="いいえ" English="no" Romaji="iie" Katakana="イイエ" Hiragana="いいえ" />
+	<Word Kanji="言う" Kana="いう" English="to say" Romaji="iu" Katakana="イウ" Hiragana="いう" />
+	<Word Kanji="家" Kana="いえ" English="house" Romaji="ie" Katakana="イエ" Hiragana="いえ" />
+	<Word Kanji="" Kana="いかが" English="how" Romaji="ikaga" Katakana="イカガ" Hiragana="いかが" />
+	<Word Kanji="行く" Kana="いく" English="to go" Romaji="iku" Katakana="イク" Hiragana="いく" />
+	<Word Kanji="" Kana="いくつ" English="how many?,how old?" Romaji="ikutsu" Katakana="イクツ" Hiragana="いくつ" />
+	<Word Kanji="" Kana="いくら" English="how much?" Romaji="ikura" Katakana="イクラ" Hiragana="いくら" />
+	<Word Kanji="池" Kana="いけ" English="pond" Romaji="ike" Katakana="イケ" Hiragana="いけ" />
+	<Word Kanji="医者" Kana="いしゃ" English="medical doctor" Romaji="isha" Katakana="イシャ" Hiragana="いしゃ" />
+	<Word Kanji="" Kana="いす" English="chair" Romaji="isu" Katakana="イス" Hiragana="いす" />
+	<Word Kanji="忙しい" Kana="いそがしい" English="busy, irritated" Romaji="isogashii" Katakana="イソガシイ" Hiragana="いそがしい" />
+	<Word Kanji="痛い" Kana="いたい" English="painful" Romaji="itai" Katakana="イタイ" Hiragana="いたい" />
+	<Word Kanji="一" Kana="いち" English="one" Romaji="ichi" Katakana="イチ" Hiragana="いち" />
+	<Word Kanji="一日" Kana="いちにち" English="first of the month" Romaji="ichinichi" Katakana="イチニチ" Hiragana="いちにち" />
+	<Word Kanji="" Kana="いちばん" English="best, first" Romaji="ichiban" Katakana="イチバン" Hiragana="いちばん" />
+	<Word Kanji="" Kana="いつ" English="when" Romaji="itsu" Katakana="イツ" Hiragana="いつ" />
+	<Word Kanji="五日" Kana="いつか" English="five days, fifth day" Romaji="itsuka" Katakana="イツカ" Hiragana="いつか" />
+	<Word Kanji="一緒" Kana="いっしょ" English="together" Romaji="issho" Katakana="イッショ" Hiragana="いっしょ" />
+	<Word Kanji="五つ" Kana="いつつ" English="five" Romaji="itsutsu" Katakana="イツツ" Hiragana="いつつ" />
+	<Word Kanji="" Kana="いつも" English="always" Romaji="itsumo" Katakana="イツモ" Hiragana="いつも" />
+	<Word Kanji="犬" Kana="いぬ" English="dog" Romaji="inu" Katakana="イヌ" Hiragana="いぬ" />
+	<Word Kanji="今" Kana="いま" English="now" Romaji="ima" Katakana="イマ" Hiragana="いま" />
+	<Word Kanji="意味" Kana="いみ" English="meaning" Romaji="imi" Katakana="イミ" Hiragana="いみ" />
+	<Word Kanji="妹" Kana="いもうと" English="(humble) younger sister" Romaji="imouto" Katakana="イモウト" Hiragana="いもうと" />
+	<Word Kanji="嫌" Kana="いや" English="unpleasant" Romaji="iya" Katakana="イヤ" Hiragana="いや" />
+	<Word Kanji="入口" Kana="いりぐち" English="entrance" Romaji="iriguchi" Katakana="イリグチ" Hiragana="いりぐち" />
+	<Word Kanji="居る" Kana="いる" English="to be, to have (used for people and animals)" Romaji="iru" Katakana="イル" Hiragana="いる" />
+	<Word Kanji="要る" Kana="いる" English="to need" Romaji="iru" Katakana="イル" Hiragana="いる" />
+	<Word Kanji="入れる" Kana="いれる" English="to put in" Romaji="ireru" Katakana="イレル" Hiragana="いれる" />
+	<Word Kanji="色" Kana="いろ" English="colour" Romaji="iro" Katakana="イロ" Hiragana="いろ" />
+	<Word Kanji="" Kana="いろいろ" English="various" Romaji="iroiro" Katakana="イロイロ" Hiragana="いろいろ" />
+	<Word Kanji="上" Kana="うえ" English="on top of" Romaji="ue" Katakana="ウエ" Hiragana="うえ" />
+	<Word Kanji="後ろ" Kana="うしろ" English="behind" Romaji="ushiro" Katakana="ウシロ" Hiragana="うしろ" />
+	<Word Kanji="薄い" Kana="うすい" English="thin,weak" Romaji="usui" Katakana="ウスイ" Hiragana="うすい" />
+	<Word Kanji="歌" Kana="うた" English="song" Romaji="uta" Katakana="ウタ" Hiragana="うた" />
+	<Word Kanji="歌う" Kana="うたう" English="to sing" Romaji="utau" Katakana="ウタウ" Hiragana="うたう" />
+	<Word Kanji="生まれる" Kana="うまれる" English="to be born" Romaji="umareru" Katakana="ウマレル" Hiragana="うまれる" />
+	<Word Kanji="海" Kana="うみ" English="sea" Romaji="umi" Katakana="ウミ" Hiragana="うみ" />
+	<Word Kanji="売る" Kana="うる" English="to sell" Romaji="uru" Katakana="ウル" Hiragana="うる" />
+	<Word Kanji="煩い" Kana="うるさい" English="noisy, annoying" Romaji="urusai" Katakana="ウルサイ" Hiragana="うるさい" />
+	<Word Kanji="上着" Kana="うわぎ" English="jacket" Romaji="uwagi" Katakana="ウワギ" Hiragana="うわぎ" />
+	<Word Kanji="絵" Kana="え" English="picture" Romaji="e" Katakana="エ" Hiragana="え" />
+	<Word Kanji="映画" Kana="えいが" English="movie" Romaji="eiga" Katakana="エイガ" Hiragana="えいが" />
+	<Word Kanji="映画館" Kana="えいがかん" English="cinema" Romaji="eigakan" Katakana="エイガカン" Hiragana="えいがかん" />
+	<Word Kanji="英語" Kana="えいご" English="English language" Romaji="eigo" Katakana="エイゴ" Hiragana="えいご" />
+	<Word Kanji="" Kana="ええ" English="yes" Romaji="ee" Katakana="エエ" Hiragana="ええ" />
+	<Word Kanji="駅" Kana="えき" English="station" Romaji="eki" Katakana="エキ" Hiragana="えき" />
+	<Word Kanji="" Kana="エレベーター" English="elevator" Romaji="erebeetaa" Katakana="エレベーター" Hiragana="えれべ゜た゜" />
+	<Word Kanji="鉛筆" Kana="えんぴつ" English="pencil" Romaji="enpitsu" Katakana="エンピツ" Hiragana="えんぴつ" />
+	<Word Kanji="" Kana="おいしい" English="delicious" Romaji="oishii" Katakana="オイシイ" Hiragana="おいしい" />
+	<Word Kanji="多い" Kana="おおい" English="many" Romaji="ooi" Katakana="オオイ" Hiragana="おおい" />
+	<Word Kanji="大きい" Kana="おおきい" English="big" Romaji="ookii" Katakana="オオキイ" Hiragana="おおきい" />
+	<Word Kanji="大きな" Kana="おおきな" English="big" Romaji="ookina" Katakana="オオキナ" Hiragana="おおきな" />
+	<Word Kanji="大勢" Kana="おおぜい" English="great number of people" Romaji="oozei" Katakana="オオゼイ" Hiragana="おおぜい" />
+	<Word Kanji="お母さん" Kana="おかあさん" English="(honorable) mother" Romaji="okaasan" Katakana="オカアサン" Hiragana="おかあさん" />
+	<Word Kanji="お菓子" Kana="おかし" English="sweets, candy" Romaji="okashi" Katakana="オカシ" Hiragana="おかし" />
+	<Word Kanji="お金" Kana="おかね" English="money" Romaji="okane" Katakana="オカネ" Hiragana="おかね" />
+	<Word Kanji="起きる" Kana="おきる" English="to get up" Romaji="okiru" Katakana="オキル" Hiragana="おきる" />
+	<Word Kanji="置く" Kana="おく" English="to put" Romaji="oku" Katakana="オク" Hiragana="おく" />
+	<Word Kanji="奥さん" Kana="おくさん" English="(honorable) wife" Romaji="okusan" Katakana="オクサン" Hiragana="おくさん" />
+	<Word Kanji="お酒" Kana="おさけ" English="alcohol, rice wine" Romaji="osake" Katakana="オサケ" Hiragana="おさけ" />
+	<Word Kanji="お皿" Kana="おさら" English="plate, dish" Romaji="osara" Katakana="オサラ" Hiragana="おさら" />
+	<Word Kanji="伯父/叔父" Kana="おじいさん" English="grandfather, male senior citizen" Romaji="ojiisan" Katakana="オジイサン" Hiragana="おじいさん" />
+	<Word Kanji="教える" Kana="おしえる" English="to teach, to tell" Romaji="oshieru" Katakana="オシエル" Hiragana="おしえる" />
+	<Word Kanji="伯父/叔父" Kana="おじさん" English="uncle, middle aged gentleman" Romaji="ojisan" Katakana="オジサン" Hiragana="おじさん" />
+	<Word Kanji="押す" Kana="おす" English="to push, to stamp something" Romaji="osu" Katakana="オス" Hiragana="おす" />
+	<Word Kanji="遅い" Kana="おそい" English="late, slow" Romaji="osoi" Katakana="オソイ" Hiragana="おそい" />
+	<Word Kanji="お茶" Kana="おちゃ" English="green tea" Romaji="ocha" Katakana="オチャ" Hiragana="おちゃ" />
+	<Word Kanji="お手洗い" Kana="おてあらい" English="bathroom" Romaji="otearai" Katakana="オテアライ" Hiragana="おてあらい" />
+	<Word Kanji="お父さん" Kana="おとうさん" English="(honorable) father" Romaji="otousan" Katakana="オトウサン" Hiragana="おとうさん" />
+	<Word Kanji="弟" Kana="おとうと" English="younger brother" Romaji="otouto" Katakana="オトウト" Hiragana="おとうと" />
+	<Word Kanji="男" Kana="おとこ" English="Man" Romaji="otoko" Katakana="オトコ" Hiragana="おとこ" />
+	<Word Kanji="男の子" Kana="おとこのこ" English="Boy" Romaji="otokonoko" Katakana="オトコノコ" Hiragana="おとこのこ" />
+	<Word Kanji="一昨日" Kana="おととい" English="day before yesterday" Romaji="ototoi" Katakana="オトトイ" Hiragana="おととい" />
+	<Word Kanji="一昨年" Kana="おととし" English="year before last" Romaji="ototoshi" Katakana="オトトシ" Hiragana="おととし" />
+	<Word Kanji="大人" Kana="おとな" English="Adult" Romaji="otona" Katakana="オトナ" Hiragana="おとな" />
+	<Word Kanji="" Kana="おなか" English="stomach" Romaji="onaka" Katakana="オナカ" Hiragana="おなか" />
+	<Word Kanji="同じ" Kana="おなじ" English="same" Romaji="onaji" Katakana="オナジ" Hiragana="おなじ" />
+	<Word Kanji="お兄さん" Kana="おにいさん" English="(honorable) older brother" Romaji="oniisan" Katakana="オニイサン" Hiragana="おにいさん" />
+	<Word Kanji="お姉さん" Kana="おねえさん" English="(honorable) older sister" Romaji="oneesan" Katakana="オネエサン" Hiragana="おねえさん" />
+	<Word Kanji="" Kana="おばあさん" English="grandmother, female senior-citizen" Romaji="obaasan" Katakana="オバアサン" Hiragana="おばあさん" />
+	<Word Kanji="伯母さん/叔母さん" Kana="おばさん" English="Aunt" Romaji="obasan" Katakana="オバサン" Hiragana="おばさん" />
+	<Word Kanji="お風呂" Kana="おふろ" English="Bath" Romaji="ofuro" Katakana="オフロ" Hiragana="おふろ" />
+	<Word Kanji="お弁当" Kana="おべんとう" English="boxed lunch" Romaji="obentou" Katakana="オベントウ" Hiragana="おべんとう" />
+	<Word Kanji="覚える" Kana="おぼえる" English="to remember" Romaji="oboeru" Katakana="オボエル" Hiragana="おぼえる" />
+	<Word Kanji="" Kana="おまわりさん" English="friendly term for policeman" Romaji="omawarisan" Katakana="オマワリサン" Hiragana="おまわりさん" />
+	<Word Kanji="重い" Kana="おもい" English="Heavy" Romaji="omoi" Katakana="オモイ" Hiragana="おもい" />
+	<Word Kanji="" Kana="おもしろい" English="Interesting" Romaji="omoshiroi" Katakana="オモシロイ" Hiragana="おもしろい" />
+	<Word Kanji="泳ぐ" Kana="およぐ" English="to swim" Romaji="oyogu" Katakana="オヨグ" Hiragana="およぐ" />
+	<Word Kanji="降りる" Kana="おりる" English="to get off, to descend" Romaji="oriru" Katakana="オリル" Hiragana="おりる" />
+	<Word Kanji="終る" Kana="おわる" English="to finish" Romaji="owaru" Katakana="オワル" Hiragana="おわる" />
+	<Word Kanji="音楽" Kana="おんがく" English="Music" Romaji="ongaku" Katakana="オンガク" Hiragana="おんがく" />
+	<Word Kanji="女" Kana="おんな" English="Woman" Romaji="onna" Katakana="オンナ" Hiragana="おんな" />
+	<Word Kanji="女の子" Kana="おんなのこ" English="Girl" Romaji="onnanoko" Katakana="オンナノコ" Hiragana="おんなのこ" />
+	<Word Kanji="外国" Kana="がいこく" English="foreign country" Romaji="gaikoku" Katakana="ガイコク" Hiragana="がいこく" />
+	<Word Kanji="外国人" Kana="がいこくじん" English="Foreigner" Romaji="gaikokujin" Katakana="ガイコクジン" Hiragana="がいこくじん" />
+	<Word Kanji="会社" Kana="かいしゃ" English="Company" Romaji="kaisha" Katakana="カイシャ" Hiragana="かいしゃ" />
+	<Word Kanji="階段" Kana="かいだん" English="Stairs" Romaji="kaidan" Katakana="カイダン" Hiragana="かいだん" />
+	<Word Kanji="買い物" Kana="かいもの" English="Shopping" Romaji="kaimono" Katakana="カイモノ" Hiragana="かいもの" />
+	<Word Kanji="買う" Kana="かう" English="to buy" Romaji="kau" Katakana="カウ" Hiragana="かう" />
+	<Word Kanji="返す" Kana="かえす" English="to return something" Romaji="kaesu" Katakana="カエス" Hiragana="かえす" />
+	<Word Kanji="帰る" Kana="かえる" English="to go back" Romaji="kaeru" Katakana="カエル" Hiragana="かえる" />
+	<Word Kanji="" Kana="かかる" English="to take time or money" Romaji="kakaru" Katakana="カカル" Hiragana="かかる" />
+	<Word Kanji="" Kana="かぎ" English="Key" Romaji="kagi" Katakana="カギ" Hiragana="かぎ" />
+	<Word Kanji="書く" Kana="かく" English="to write" Romaji="kaku" Katakana="カク" Hiragana="かく" />
+	<Word Kanji="学生" Kana="がくせい" English="Student" Romaji="gakusei" Katakana="ガクセイ" Hiragana="がくせい" />
+	<Word Kanji="" Kana="かける" English="to call by phone" Romaji="kakeru" Katakana="カケル" Hiragana="かける" />
+	<Word Kanji="傘" Kana="かさ" English="Umbrella" Romaji="kasa" Katakana="カサ" Hiragana="かさ" />
+	<Word Kanji="貸す" Kana="かす" English="to lend" Romaji="kasu" Katakana="カス" Hiragana="かす" />
+	<Word Kanji="風" Kana="かぜ" English="Wind" Romaji="kaze" Katakana="カゼ" Hiragana="かぜ" />
+	<Word Kanji="風邪" Kana="かぜ" English="a cold" Romaji="kaze" Katakana="カゼ" Hiragana="かぜ" />
+	<Word Kanji="家族" Kana="かぞく" English="Family" Romaji="kazoku" Katakana="カゾク" Hiragana="かぞく" />
+	<Word Kanji="方" Kana="かた" English="person, way of doing" Romaji="kata" Katakana="カタ" Hiragana="かた" />
+	<Word Kanji="学校" Kana="がっこう" English="School" Romaji="gakkou" Katakana="ガッコウ" Hiragana="がっこう" />
+	<Word Kanji="" Kana="カップ" English="Cup" Romaji="kappu" Katakana="カップ" Hiragana="かっぷ" />
+	<Word Kanji="家庭" Kana="かてい" English="Household" Romaji="katei" Katakana="カテイ" Hiragana="かてい" />
+	<Word Kanji="角" Kana="かど" English="a corner" Romaji="kado" Katakana="カド" Hiragana="かど" />
+	<Word Kanji="" Kana="かばん" English="bag, basket" Romaji="kaban" Katakana="カバン" Hiragana="かばん" />
+	<Word Kanji="花瓶" Kana="かびん" English="a vase" Romaji="kabin" Katakana="カビン" Hiragana="かびん" />
+	<Word Kanji="紙" Kana="かみ" English="paper" Romaji="kami" Katakana="カミ" Hiragana="かみ" />
+	<Word Kanji="" Kana="カメラ" English="camera" Romaji="kamera" Katakana="カメラ" Hiragana="かめら" />
+	<Word Kanji="火曜日" Kana="かようび" English="Tuesday" Romaji="kayoubi" Katakana="カヨウビ" Hiragana="かようび" />
+	<Word Kanji="辛い" Kana="からい" English="Spicy" Romaji="karai" Katakana="カライ" Hiragana="からい" />
+	<Word Kanji="体" Kana="からだ" English="Body" Romaji="karada" Katakana="カラダ" Hiragana="からだ" />
+	<Word Kanji="借りる" Kana="かりる" English="to borrow" Romaji="kariru" Katakana="カリル" Hiragana="かりる" />
+	<Word Kanji="軽い" Kana="かるい" English="Light" Romaji="karui" Katakana="カルイ" Hiragana="かるい" />
+	<Word Kanji="" Kana="カレー" English="Curry" Romaji="karee" Katakana="カレー" Hiragana="かれ゜" />
+	<Word Kanji="" Kana="カレンダー" English="calendar" Romaji="karendaa" Katakana="カレンダー" Hiragana="かれんだ゜" />
+	<Word Kanji="川/河" Kana="かわ" English="River" Romaji="kawa" Katakana="カワ" Hiragana="かわ" />
+	<Word Kanji="" Kana="かわいい" English="Cute" Romaji="kawaii" Katakana="カワイイ" Hiragana="かわいい" />
+	<Word Kanji="漢字" Kana="かんじ" English="Chinese character" Romaji="kanji" Katakana="カンジ" Hiragana="かんじ" />
+	<Word Kanji="木" Kana="き" English="tree, wood" Romaji="ki" Katakana="キ" Hiragana="き" />
+	<Word Kanji="黄色" Kana="きいろ" English="yellow" Romaji="kiiro" Katakana="キイロ" Hiragana="きいろ" />
+	<Word Kanji="黄色い" Kana="きいろい" English="yellow" Romaji="kiiroi" Katakana="キイロイ" Hiragana="きいろい" />
+	<Word Kanji="消える" Kana="きえる" English="to disappear" Romaji="kieru" Katakana="キエル" Hiragana="きえる" />
+	<Word Kanji="聞く" Kana="きく" English="to hear, to listen to, to ask" Romaji="kiku" Katakana="キク" Hiragana="きく" />
+	<Word Kanji="北" Kana="きた" English="North" Romaji="kita" Katakana="キタ" Hiragana="きた" />
+	<Word Kanji="" Kana="ギター" English="Guitar" Romaji="gitaa" Katakana="ギター" Hiragana="ぎた゜" />
+	<Word Kanji="汚い" Kana="きたない" English="Dirty" Romaji="kitanai" Katakana="キタナイ" Hiragana="きたない" />
+	<Word Kanji="喫茶店" Kana="きっさてん" English="coffee lounge" Romaji="kissaten" Katakana="キッサテン" Hiragana="きっさてん" />
+	<Word Kanji="切手" Kana="きって" English="postage stamp" Romaji="kitte" Katakana="キッテ" Hiragana="きって" />
+	<Word Kanji="切符" Kana="きっぷ" English="Ticket" Romaji="kippu" Katakana="キップ" Hiragana="きっぷ" />
+	<Word Kanji="昨日" Kana="きのう" English="Yesterday" Romaji="kinou" Katakana="キノウ" Hiragana="きのう" />
+	<Word Kanji="九" Kana="きゅう / く" English="Nine" Romaji="kyuu / ku" Katakana="キュウ / ク" Hiragana="きゅう / く" />
+	<Word Kanji="牛肉" Kana="ぎゅうにく" English="Beef" Romaji="gyuuniku" Katakana="ギュウニク" Hiragana="ぎゅうにく" />
+	<Word Kanji="牛乳" Kana="ぎゅうにゅう" English="Milk" Romaji="gyuunyuu" Katakana="ギュウニュウ" Hiragana="ぎゅうにゅう" />
+	<Word Kanji="今日" Kana="きょう" English="Today" Romaji="kyou" Katakana="キョウ" Hiragana="きょう" />
+	<Word Kanji="教室" Kana="きょうしつ" English="Classroom" Romaji="kyoushitsu" Katakana="キョウシツ" Hiragana="きょうしつ" />
+	<Word Kanji="兄弟" Kana="きょうだい" English="(humble) siblings" Romaji="kyoudai" Katakana="キョウダイ" Hiragana="きょうだい" />
+	<Word Kanji="去年" Kana="きょねん" English="last year" Romaji="kyonen" Katakana="キョネン" Hiragana="きょねん" />
+	<Word Kanji="嫌い" Kana="きらい" English="Hate" Romaji="kirai" Katakana="キライ" Hiragana="きらい" />
+	<Word Kanji="切る" Kana="きる" English="to cut" Romaji="kiru" Katakana="キル" Hiragana="きる" />
+	<Word Kanji="着る" Kana="きる" English="to put on from the shoulders down" Romaji="kiru" Katakana="キル" Hiragana="きる" />
+	<Word Kanji="" Kana="きれい" English="pretty, clean" Romaji="kirei" Katakana="キレイ" Hiragana="きれい" />
+	<Word Kanji="" Kana="キロ/キログラム" English="Kilogram" Romaji="kiro/kiroguramu" Katakana="キロ/キログラム" Hiragana="きろ/きろぐらむ" />
+	<Word Kanji="" Kana="キロ/キロメートル" English="Kilometer" Romaji="kiro/kiromeetoru" Katakana="キロ/キロメートル" Hiragana="きろ/きろめ゜とる" />
+	<Word Kanji="銀行" Kana="ぎんこう" English="Bank" Romaji="ginkou" Katakana="ギンコウ" Hiragana="ぎんこう" />
+	<Word Kanji="金曜日" Kana="きんようび" English="Friday" Romaji="kinyoubi" Katakana="キンヨウビ" Hiragana="きんようび" />
+	<Word Kanji="薬" Kana="くすり" English="medicine" Romaji="kusuri" Katakana="クスリ" Hiragana="くすり" />
+	<Word Kanji="" Kana="ください" English="Please" Romaji="kudasai" Katakana="クダサイ" Hiragana="ください" />
+	<Word Kanji="果物" Kana="くだもの" English="Fruit" Romaji="kudamono" Katakana="クダモノ" Hiragana="くだもの" />
+	<Word Kanji="口" Kana="くち" English="mouth, opening" Romaji="kuchi" Katakana="クチ" Hiragana="くち" />
+	<Word Kanji="靴" Kana="くつ" English="Shoes" Romaji="kutsu" Katakana="クツ" Hiragana="くつ" />
+	<Word Kanji="靴下" Kana="くつした" English="Socks" Romaji="kutsushita" Katakana="クツシタ" Hiragana="くつした" />
+	<Word Kanji="国" Kana="くに" English="Country" Romaji="kuni" Katakana="クニ" Hiragana="くに" />
+	<Word Kanji="曇り" Kana="くもり" English="cloudy weather" Romaji="kumori" Katakana="クモリ" Hiragana="くもり" />
+	<Word Kanji="曇る" Kana="くもる" English="to become cloudy, to become dim" Romaji="kumoru" Katakana="クモル" Hiragana="くもる" />
+	<Word Kanji="暗い" Kana="くらい" English="Gloomy" Romaji="kurai" Katakana="クライ" Hiragana="くらい" />
+	<Word Kanji="" Kana="クラス" English="Class" Romaji="kurasu" Katakana="クラス" Hiragana="くらす" />
+	<Word Kanji="" Kana="グラム" English="Gram" Romaji="guramu" Katakana="グラム" Hiragana="ぐらむ" />
+	<Word Kanji="来る" Kana="くる" English="to come" Romaji="kuru" Katakana="クル" Hiragana="くる" />
+	<Word Kanji="車" Kana="くるま" English="car, vehicle" Romaji="kuruma" Katakana="クルマ" Hiragana="くるま" />
+	<Word Kanji="黒" Kana="くろ" English="Black" Romaji="kuro" Katakana="クロ" Hiragana="くろ" />
+	<Word Kanji="黒い" Kana="くろい" English="black" Romaji="kuroi" Katakana="クロイ" Hiragana="くろい" />
+	<Word Kanji="警官" Kana="けいかん" English="policeman" Romaji="keikan" Katakana="ケイカン" Hiragana="けいかん" />
+	<Word Kanji="今朝" Kana="けさ" English="this morning" Romaji="kesa" Katakana="ケサ" Hiragana="けさ" />
+	<Word Kanji="消す" Kana="けす" English="to erase, to turn off power" Romaji="kesu" Katakana="ケス" Hiragana="けす" />
+	<Word Kanji="結構" Kana="けっこう" English="splendid, enough" Romaji="kekkou" Katakana="ケッコウ" Hiragana="けっこう" />
+	<Word Kanji="結婚" Kana="けっこん" English="Marriage" Romaji="kekkon" Katakana="ケッコン" Hiragana="けっこん" />
+	<Word Kanji="月曜日" Kana="げつようび" English="Monday" Romaji="getsuyoubi" Katakana="ゲツヨウビ" Hiragana="げつようび" />
+	<Word Kanji="玄関" Kana="げんかん" English="entry hall" Romaji="genkan" Katakana="ゲンカン" Hiragana="げんかん" />
+	<Word Kanji="元気" Kana="げんき" English="health, vitality" Romaji="genki" Katakana="ゲンキ" Hiragana="げんき" />
+	<Word Kanji="五" Kana="ご" English="Five" Romaji="go" Katakana="ゴ" Hiragana="ご" />
+	<Word Kanji="公園" Kana="こうえん" English="Park" Romaji="kouen" Katakana="コウエン" Hiragana="こうえん" />
+	<Word Kanji="交差点" Kana="こうさてん" English="intersection" Romaji="kousaten" Katakana="コウサテン" Hiragana="こうさてん" />
+	<Word Kanji="紅茶" Kana="こうちゃ" English="black tea" Romaji="koucha" Katakana="コウチャ" Hiragana="こうちゃ" />
+	<Word Kanji="交番" Kana="こうばん" English="police box" Romaji="kouban" Katakana="コウバン" Hiragana="こうばん" />
+	<Word Kanji="声" Kana="こえ" English="Voice" Romaji="koe" Katakana="コエ" Hiragana="こえ" />
+	<Word Kanji="" Kana="コート" English="coat, tennis court" Romaji="kooto" Katakana="コート" Hiragana="こ゜と" />
+	<Word Kanji="" Kana="コーヒー" English="Coffee" Romaji="koohii" Katakana="コーヒー" Hiragana="こ゜ひ゜" />
+	<Word Kanji="" Kana="ここ" English="Here" Romaji="koko" Katakana="ココ" Hiragana="ここ" />
+	<Word Kanji="午後" Kana="ごご" English="afternoon" Romaji="gogo" Katakana="ゴゴ" Hiragana="ごご" />
+	<Word Kanji="九日" Kana="ここのか" English="nine days, ninth day" Romaji="kokonoka" Katakana="ココノカ" Hiragana="ここのか" />
+	<Word Kanji="九つ" Kana="ここのつ" English="Nine" Romaji="kokonotsu" Katakana="ココノツ" Hiragana="ここのつ" />
+	<Word Kanji="午前" Kana="ごぜん" English="morning" Romaji="gozen" Katakana="ゴゼン" Hiragana="ごぜん" />
+	<Word Kanji="答える" Kana="こたえる" English="to answer" Romaji="kotaeru" Katakana="コタエル" Hiragana="こたえる" />
+	<Word Kanji="" Kana="こちら" English="this person or way" Romaji="kochira" Katakana="コチラ" Hiragana="こちら" />
+	<Word Kanji="" Kana="こっち" English="this person or way" Romaji="kocchi" Katakana="コッチ" Hiragana="こっち" />
+	<Word Kanji="" Kana="コップ" English="a glass" Romaji="koppu" Katakana="コップ" Hiragana="こっぷ" />
+	<Word Kanji="今年" Kana="ことし" English="this year" Romaji="kotoshi" Katakana="コトシ" Hiragana="ことし" />
+	<Word Kanji="言葉" Kana="ことば" English="word, language" Romaji="kotoba" Katakana="コトバ" Hiragana="ことば" />
+	<Word Kanji="子供" Kana="こども" English="Child" Romaji="kodomo" Katakana="コドモ" Hiragana="こども" />
+	<Word Kanji="" Kana="この" English="This" Romaji="kono" Katakana="コノ" Hiragana="この" />
+	<Word Kanji="御飯" Kana="ごはん" English="cooked rice, meal" Romaji="gohan" Katakana="ゴハン" Hiragana="ごはん" />
+	<Word Kanji="" Kana="コピーする" English="to copy" Romaji="kopiisuru" Katakana="コピースル" Hiragana="こぴ゜する" />
+	<Word Kanji="困る" Kana="こまる" English="to be worried" Romaji="komaru" Katakana="コマル" Hiragana="こまる" />
+	<Word Kanji="" Kana="これ" English="This" Romaji="kore" Katakana="コレ" Hiragana="これ" />
+	<Word Kanji="今月" Kana="こんげつ" English="this month" Romaji="kongetsu" Katakana="コンゲツ" Hiragana="こんげつ" />
+	<Word Kanji="今週" Kana="こんしゅう" English="this week" Romaji="konshuu" Katakana="コンシュウ" Hiragana="こんしゅう" />
+	<Word Kanji="" Kana="こんな" English="Such" Romaji="konna" Katakana="コンナ" Hiragana="こんな" />
+	<Word Kanji="今晩" Kana="こんばん" English="this evening" Romaji="konban" Katakana="コンバン" Hiragana="こんばん" />
+	<Word Kanji="" Kana="さあ" English="well…" Romaji="saa" Katakana="サア" Hiragana="さあ" />
+	<Word Kanji="財布" Kana="さいふ" English="Wallet" Romaji="saifu" Katakana="サイフ" Hiragana="さいふ" />
+	<Word Kanji="魚" Kana="さかな" English="Fish" Romaji="sakana" Katakana="サカナ" Hiragana="さかな" />
+	<Word Kanji="先" Kana="さき" English="the future, previous" Romaji="saki" Katakana="サキ" Hiragana="さき" />
+	<Word Kanji="咲く" Kana="さく" English="to bloom" Romaji="saku" Katakana="サク" Hiragana="さく" />
+	<Word Kanji="作文" Kana="さくぶん" English="composition, writing" Romaji="sakubun" Katakana="サクブン" Hiragana="さくぶん" />
+	<Word Kanji="差す" Kana="さす" English="to stretch out hands, to raise an umbrella" Romaji="sasu" Katakana="サス" Hiragana="さす" />
+	<Word Kanji="雑誌" Kana="ざっし" English="Magazine" Romaji="zasshi" Katakana="ザッシ" Hiragana="ざっし" />
+	<Word Kanji="砂糖" Kana="さとう" English="Sugar" Romaji="satou" Katakana="サトウ" Hiragana="さとう" />
+	<Word Kanji="寒い" Kana="さむい" English="Cold" Romaji="samui" Katakana="サムイ" Hiragana="さむい" />
+	<Word Kanji="さ来年" Kana="さらいねん" English="year after next" Romaji="sarainen" Katakana="サライネン" Hiragana="さらいねん" />
+	<Word Kanji="三" Kana="さん" English="Three" Romaji="san" Katakana="サン" Hiragana="さん" />
+	<Word Kanji="散歩" Kana="さんぽする" English="to stroll" Romaji="sanposuru" Katakana="サンポスル" Hiragana="さんぽする" />
+	<Word Kanji="四" Kana="し / よん" English="Four" Romaji="shi / yon" Katakana="シ / ヨン" Hiragana="し / よん" />
+	<Word Kanji="塩" Kana="しお" English="Salt" Romaji="shio" Katakana="シオ" Hiragana="しお" />
+	<Word Kanji="" Kana="しかし" English="However" Romaji="shikashi" Katakana="シカシ" Hiragana="しかし" />
+	<Word Kanji="時間" Kana="じかん" English="Time" Romaji="jikan" Katakana="ジカン" Hiragana="じかん" />
+	<Word Kanji="仕事" Kana="しごと" English="Job" Romaji="shigoto" Katakana="シゴト" Hiragana="しごと" />
+	<Word Kanji="辞書" Kana="じしょ" English="Dictionary" Romaji="jisho" Katakana="ジショ" Hiragana="じしょ" />
+	<Word Kanji="静か" Kana="しずか" English="Quiet" Romaji="shizuka" Katakana="シズカ" Hiragana="しずか" />
+	<Word Kanji="下" Kana="した" English="Below" Romaji="shita" Katakana="シタ" Hiragana="した" />
+	<Word Kanji="七" Kana="しち / なな" English="Seven" Romaji="shichi / nana" Katakana="シチ / ナナ" Hiragana="しち / なな" />
+	<Word Kanji="質問" Kana="しつもん" English="Question" Romaji="shitsumon" Katakana="シツモン" Hiragana="しつもん" />
+	<Word Kanji="自転車" Kana="じてんしゃ" English="Bicycle" Romaji="jitensha" Katakana="ジテンシャ" Hiragana="じてんしゃ" />
+	<Word Kanji="自動車" Kana="じどうしゃ" English="Automobile" Romaji="jidousha" Katakana="ジドウシャ" Hiragana="じどうしゃ" />
+	<Word Kanji="死ぬ" Kana="しぬ" English="to die" Romaji="shinu" Katakana="シヌ" Hiragana="しぬ" />
+	<Word Kanji="字引" Kana="じびき" English="Dictionary" Romaji="jibiki" Katakana="ジビキ" Hiragana="じびき" />
+	<Word Kanji="自分" Kana="じぶん" English="Oneself" Romaji="jibun" Katakana="ジブン" Hiragana="じぶん" />
+	<Word Kanji="閉まる" Kana="しまる" English="to close, to be closed" Romaji="shimaru" Katakana="シマル" Hiragana="しまる" />
+	<Word Kanji="閉める" Kana="しめる" English="to close something" Romaji="shimeru" Katakana="シメル" Hiragana="しめる" />
+	<Word Kanji="締める" Kana="しめる" English="to tie" Romaji="shimeru" Katakana="シメル" Hiragana="しめる" />
+	<Word Kanji="" Kana="じゃ/じゃあ" English="well then…" Romaji="jya/jyaa" Katakana="ジャ/ジャア" Hiragana="じゃ/じゃあ" />
+	<Word Kanji="写真" Kana="しゃしん" English="photograph" Romaji="shashin" Katakana="シャシン" Hiragana="しゃしん" />
+	<Word Kanji="" Kana="シャツ" English="Shirt" Romaji="shatsu" Katakana="シャツ" Hiragana="しゃつ" />
+	<Word Kanji="" Kana="シャワー" English="Shower" Romaji="shawaa" Katakana="シャワー" Hiragana="しゃわ゜" />
+	<Word Kanji="十" Kana="じゅう とお" English="Ten" Romaji="jyuu too" Katakana="ジュウ トオ" Hiragana="じゅう とお" />
+	<Word Kanji="授業" Kana="じゅぎょう" English="lesson, class work" Romaji="jyugyou" Katakana="ジュギョウ" Hiragana="じゅぎょう" />
+	<Word Kanji="宿題" Kana="しゅくだい" English="homework" Romaji="shukudai" Katakana="シュクダイ" Hiragana="しゅくだい" />
+	<Word Kanji="上手" Kana="じょうず" English="Skillful" Romaji="jyouzu" Katakana="ジョウズ" Hiragana="じょうず" />
+	<Word Kanji="丈夫" Kana="じょうぶ" English="strong, durable" Romaji="jyoubu" Katakana="ジョウブ" Hiragana="じょうぶ" />
+	<Word Kanji="" Kana="しょうゆ" English="soy sauce" Romaji="shouyu" Katakana="ショウユ" Hiragana="しょうゆ" />
+	<Word Kanji="食堂" Kana="しょくどう" English="dining hall" Romaji="shokudou" Katakana="ショクドウ" Hiragana="しょくどう" />
+	<Word Kanji="知る" Kana="しる" English="to know" Romaji="shiru" Katakana="シル" Hiragana="しる" />
+	<Word Kanji="白" Kana="しろ" English="White" Romaji="shiro" Katakana="シロ" Hiragana="しろ" />
+	<Word Kanji="白い" Kana="しろい" English="White" Romaji="shiroi" Katakana="シロイ" Hiragana="しろい" />
+	<Word Kanji="新聞" Kana="しんぶん" English="newspaper" Romaji="shinbun" Katakana="シンブン" Hiragana="しんぶん" />
+	<Word Kanji="水曜日" Kana="すいようび" English="Wednesday" Romaji="suiyoubi" Katakana="スイヨウビ" Hiragana="すいようび" />
+	<Word Kanji="吸う" Kana="すう" English="to smoke, to suck" Romaji="suu" Katakana="スウ" Hiragana="すう" />
+	<Word Kanji="" Kana="スカート" English="Skirt" Romaji="sukaato" Katakana="スカート" Hiragana="すか゜と" />
+	<Word Kanji="好き" Kana="すき" English="Likeable" Romaji="suki" Katakana="スキ" Hiragana="すき" />
+	<Word Kanji="少ない" Kana="すくない" English="a few" Romaji="sukunai" Katakana="スクナイ" Hiragana="すくない" />
+	<Word Kanji="" Kana="すぐに" English="Instantly" Romaji="suguni" Katakana="スグニ" Hiragana="すぐに" />
+	<Word Kanji="少し" Kana="すこし" English="Few" Romaji="sukoshi" Katakana="スコシ" Hiragana="すこし" />
+	<Word Kanji="涼しい" Kana="すずしい" English="Refreshing" Romaji="suzushii" Katakana="スズシイ" Hiragana="すずしい" />
+	<Word Kanji="" Kana="ストーブ" English="Heater" Romaji="sutoobu" Katakana="ストーブ" Hiragana="すと゜ぶ" />
+	<Word Kanji="" Kana="スプーン" English="Spoon" Romaji="supuun" Katakana="スプーン" Hiragana="すぷ゜ん" />
+	<Word Kanji="" Kana="スポーツ" English="Sport" Romaji="supootsu" Katakana="スポーツ" Hiragana="すぽ゜つ" />
+	<Word Kanji="" Kana="ズボン" English="Trousers" Romaji="zubon" Katakana="ズボン" Hiragana="ずぼん" />
+	<Word Kanji="住む" Kana="すむ" English="to live in" Romaji="sumu" Katakana="スム" Hiragana="すむ" />
+	<Word Kanji="" Kana="スリッパ" English="Slippers" Romaji="surippa" Katakana="スリッパ" Hiragana="すりっぱ" />
+	<Word Kanji="" Kana="する" English="to do" Romaji="suru" Katakana="スル" Hiragana="する" />
+	<Word Kanji="座る" Kana="すわる" English="to sit" Romaji="suwaru" Katakana="スワル" Hiragana="すわる" />
+	<Word Kanji="背" Kana="せ" English="height, stature" Romaji="se" Katakana="セ" Hiragana="せ" />
+	<Word Kanji="生徒" Kana="せいと" English="Pupil" Romaji="seito" Katakana="セイト" Hiragana="せいと" />
+	<Word Kanji="" Kana="セーター" English="sweater, jumper" Romaji="seetaa" Katakana="セーター" Hiragana="せ゜た゜" />
+	<Word Kanji="" Kana="せっけん" English="Economy" Romaji="sekken" Katakana="セッケン" Hiragana="せっけん" />
+	<Word Kanji="背広" Kana="せびろ" English="business suit" Romaji="sebiro" Katakana="セビロ" Hiragana="せびろ" />
+	<Word Kanji="狭い" Kana="せまい" English="Narrow" Romaji="semai" Katakana="セマイ" Hiragana="せまい" />
+	<Word Kanji="" Kana="ゼロ" English="Zero" Romaji="zero" Katakana="ゼロ" Hiragana="ぜろ" />
+	<Word Kanji="千" Kana="せん" English="Thousand" Romaji="sen" Katakana="セン" Hiragana="せん" />
+	<Word Kanji="先月" Kana="せんげつ" English="last month" Romaji="sengetsu" Katakana="センゲツ" Hiragana="せんげつ" />
+	<Word Kanji="先週" Kana="せんしゅう" English="last week" Romaji="senshuu" Katakana="センシュウ" Hiragana="せんしゅう" />
+	<Word Kanji="先生" Kana="せんせい" English="teacher, doctor" Romaji="sensei" Katakana="センセイ" Hiragana="せんせい" />
+	<Word Kanji="洗濯" Kana="せんたく" English="Washing" Romaji="sentaku" Katakana="センタク" Hiragana="せんたく" />
+	<Word Kanji="全部" Kana="ぜんぶ" English="All" Romaji="zenbu" Katakana="ゼンブ" Hiragana="ぜんぶ" />
+	<Word Kanji="掃除" Kana="そうじする" English="to clean, to sweep" Romaji="soujisuru" Katakana="ソウジスル" Hiragana="そうじする" />
+	<Word Kanji="" Kana="そうして/そして" English="And" Romaji="soushite/soshite" Katakana="ソウシテ/ソシテ" Hiragana="そうして/そして" />
+	<Word Kanji="" Kana="そこ" English="that place" Romaji="soko" Katakana="ソコ" Hiragana="そこ" />
+	<Word Kanji="" Kana="そちら" English="over there" Romaji="sochira" Katakana="ソチラ" Hiragana="そちら" />
+	<Word Kanji="" Kana="そっち" English="over there" Romaji="socchi" Katakana="ソッチ" Hiragana="そっち" />
+	<Word Kanji="外" Kana="そと" English="Outside" Romaji="soto" Katakana="ソト" Hiragana="そと" />
+	<Word Kanji="" Kana="その" English="That" Romaji="sono" Katakana="ソノ" Hiragana="その" />
+	<Word Kanji="" Kana="そば" English="near, beside" Romaji="soba" Katakana="ソバ" Hiragana="そば" />
+	<Word Kanji="空" Kana="そら" English="Sky" Romaji="sora" Katakana="ソラ" Hiragana="そら" />
+	<Word Kanji="" Kana="それ" English="that" Romaji="sore" Katakana="ソレ" Hiragana="それ" />
+	<Word Kanji="" Kana="それから" English="after that" Romaji="sorekara" Katakana="ソレカラ" Hiragana="それから" />
+	<Word Kanji="" Kana="それでは" English="in that situation" Romaji="soredeha" Katakana="ソレデハ" Hiragana="それでは" />
+	<Word Kanji="大学" Kana="だいがく" English="university" Romaji="daigaku" Katakana="ダイガク" Hiragana="だいがく" />
+	<Word Kanji="大使館" Kana="たいしかん" English="embassy" Romaji="taishikan" Katakana="タイシカン" Hiragana="たいしかん" />
+	<Word Kanji="大丈夫" Kana="だいじょうぶ" English="all right" Romaji="daijyoubu" Katakana="ダイジョウブ" Hiragana="だいじょうぶ" />
+	<Word Kanji="大好き" Kana="だいすき" English="to be very likeable" Romaji="daisuki" Katakana="ダイスキ" Hiragana="だいすき" />
+	<Word Kanji="大切" Kana="たいせつ" English="important" Romaji="taisetsu" Katakana="タイセツ" Hiragana="たいせつ" />
+	<Word Kanji="台所" Kana="だいどころ" English="kitchen" Romaji="daidokoro" Katakana="ダイドコロ" Hiragana="だいどころ" />
+	<Word Kanji="" Kana="たいへん" English="very" Romaji="taihen" Katakana="タイヘン" Hiragana="たいへん" />
+	<Word Kanji="" Kana="たいへん" English="difficult situation" Romaji="taihen" Katakana="タイヘン" Hiragana="たいへん" />
+	<Word Kanji="高い" Kana="たかい" English="tall, expensive" Romaji="takai" Katakana="タカイ" Hiragana="たかい" />
+	<Word Kanji="" Kana="たくさん" English="many" Romaji="takusan" Katakana="タクサン" Hiragana="たくさん" />
+	<Word Kanji="" Kana="タクシー" English="taxi" Romaji="takushii" Katakana="タクシー" Hiragana="たくし゜" />
+	<Word Kanji="出す" Kana="だす" English="to put out" Romaji="dasu" Katakana="ダス" Hiragana="だす" />
+	<Word Kanji="立つ" Kana="たつ" English="to stand" Romaji="tatsu" Katakana="タツ" Hiragana="たつ" />
+	<Word Kanji="" Kana="たて" English="length,height" Romaji="tate" Katakana="タテ" Hiragana="たて" />
+	<Word Kanji="建物" Kana="たてもの" English="building" Romaji="tatemono" Katakana="タテモノ" Hiragana="たてもの" />
+	<Word Kanji="楽しい" Kana="たのしい" English="enjoyable" Romaji="tanoshii" Katakana="タノシイ" Hiragana="たのしい" />
+	<Word Kanji="頼む" Kana="たのむ" English="to ask" Romaji="tanomu" Katakana="タノム" Hiragana="たのむ" />
+	<Word Kanji="" Kana="たばこ" English="tobacco,cigarettes" Romaji="tabako" Katakana="タバコ" Hiragana="たばこ" />
+	<Word Kanji="" Kana="たぶん" English="probably" Romaji="tabun" Katakana="タブン" Hiragana="たぶん" />
+	<Word Kanji="食べ物" Kana="たべもの" English="food" Romaji="tabemono" Katakana="タベモノ" Hiragana="たべもの" />
+	<Word Kanji="食べる" Kana="たべる" English="to eat" Romaji="taberu" Katakana="タベル" Hiragana="たべる" />
+	<Word Kanji="卵" Kana="たまご" English="egg" Romaji="tamago" Katakana="タマゴ" Hiragana="たまご" />
+	<Word Kanji="誰" Kana="だれ" English="who" Romaji="dare" Katakana="ダレ" Hiragana="だれ" />
+	<Word Kanji="誰" Kana="だれか" English="somebody" Romaji="dareka" Katakana="ダレカ" Hiragana="だれか" />
+	<Word Kanji="誕生日" Kana="たんじょうび" English="birthday" Romaji="tanjyoubi" Katakana="タンジョウビ" Hiragana="たんじょうび" />
+	<Word Kanji="" Kana="だんだん" English="gradually" Romaji="dandan" Katakana="ダンダン" Hiragana="だんだん" />
+	<Word Kanji="小さい" Kana="ちいさい" English="little" Romaji="chiisai" Katakana="チイサイ" Hiragana="ちいさい" />
+	<Word Kanji="小さな" Kana="ちいさな" English="little" Romaji="chiisana" Katakana="チイサナ" Hiragana="ちいさな" />
+	<Word Kanji="近い" Kana="ちかい" English="near" Romaji="chikai" Katakana="チカイ" Hiragana="ちかい" />
+	<Word Kanji="違う" Kana="ちがう" English="to differ" Romaji="chigau" Katakana="チガウ" Hiragana="ちがう" />
+	<Word Kanji="近く" Kana="ちかく" English="near" Romaji="chikaku" Katakana="チカク" Hiragana="ちかく" />
+	<Word Kanji="地下鉄" Kana="ちかてつ" English="underground train" Romaji="chikatetsu" Katakana="チカテツ" Hiragana="ちかてつ" />
+	<Word Kanji="地図" Kana="ちず" English="map" Romaji="chizu" Katakana="チズ" Hiragana="ちず" />
+	<Word Kanji="茶色" Kana="ちゃいろ" English="brown" Romaji="chairo" Katakana="チャイロ" Hiragana="ちゃいろ" />
+	<Word Kanji="" Kana="ちゃわん" English="rice bowl" Romaji="chawan" Katakana="チャワン" Hiragana="ちゃわん" />
+	<Word Kanji="" Kana="ちょうど" English="exactly" Romaji="choudo" Katakana="チョウド" Hiragana="ちょうど" />
+	<Word Kanji="" Kana="ちょっと" English="somewhat" Romaji="chotto" Katakana="チョット" Hiragana="ちょっと" />
+	<Word Kanji="一日" Kana="ついたち" English="first of month" Romaji="tsuitachi" Katakana="ツイタチ" Hiragana="ついたち" />
+	<Word Kanji="使う" Kana="つかう" English="to use" Romaji="tsukau" Katakana="ツカウ" Hiragana="つかう" />
+	<Word Kanji="疲れる" Kana="つかれる" English="to get tired" Romaji="tsukareru" Katakana="ツカレル" Hiragana="つかれる" />
+	<Word Kanji="次" Kana="つぎ" English="next" Romaji="tsugi" Katakana="ツギ" Hiragana="つぎ" />
+	<Word Kanji="着く" Kana="つく" English="to arrive at" Romaji="tsuku" Katakana="ツク" Hiragana="つく" />
+	<Word Kanji="机" Kana="つくえ" English="desk" Romaji="tsukue" Katakana="ツクエ" Hiragana="つくえ" />
+	<Word Kanji="作る" Kana="つくる" English="to make" Romaji="tsukuru" Katakana="ツクル" Hiragana="つくる" />
+	<Word Kanji="" Kana="つける" English="to turn on" Romaji="tsukeru" Katakana="ツケル" Hiragana="つける" />
+	<Word Kanji="勤める" Kana="つとめる" English="to work for someone" Romaji="tsutomeru" Katakana="ツトメル" Hiragana="つとめる" />
+	<Word Kanji="" Kana="つまらない" English="boring" Romaji="tsumaranai" Katakana="ツマラナイ" Hiragana="つまらない" />
+	<Word Kanji="冷たい" Kana="つめたい" English="cold to the touch" Romaji="tsumetai" Katakana="ツメタイ" Hiragana="つめたい" />
+	<Word Kanji="強い" Kana="つよい" English="powerful" Romaji="tsuyoi" Katakana="ツヨイ" Hiragana="つよい" />
+	<Word Kanji="手" Kana="て" English="hand" Romaji="te" Katakana="テ" Hiragana="て" />
+	<Word Kanji="" Kana="テープ" English="tape" Romaji="teepu" Katakana="テープ" Hiragana="て゜ぷ" />
+	<Word Kanji="" Kana="テーブル" English="table" Romaji="teeburu" Katakana="テーブル" Hiragana="て゜ぶる" />
+	<Word Kanji="" Kana="テープレコーダー" English="tape recorder" Romaji="teepurekoodaa" Katakana="テープレコーダー" Hiragana="て゜ぷれこ゜だ゜" />
+	<Word Kanji="出かける" Kana="でかける" English="to go out" Romaji="dekakeru" Katakana="デカケル" Hiragana="でかける" />
+	<Word Kanji="手紙" Kana="てがみ" English="letter" Romaji="tegami" Katakana="テガミ" Hiragana="てがみ" />
+	<Word Kanji="" Kana="できる" English="to be able to" Romaji="dekiru" Katakana="デキル" Hiragana="できる" />
+	<Word Kanji="出口" Kana="でぐち" English="exit" Romaji="deguchi" Katakana="デグチ" Hiragana="でぐち" />
+	<Word Kanji="" Kana="テスト" English="test" Romaji="tesuto" Katakana="テスト" Hiragana="てすと" />
+	<Word Kanji="" Kana="では" English="with that..." Romaji="deha" Katakana="デハ" Hiragana="では" />
+	<Word Kanji="" Kana="デパート" English="department store" Romaji="depaato" Katakana="デパート" Hiragana="でぱ゜と" />
+	<Word Kanji="" Kana="でも" English="but" Romaji="demo" Katakana="デモ" Hiragana="でも" />
+	<Word Kanji="出る" Kana="でる" English="to appear,to leave" Romaji="deru" Katakana="デル" Hiragana="でる" />
+	<Word Kanji="" Kana="テレビ" English="television" Romaji="terebi" Katakana="テレビ" Hiragana="てれび" />
+	<Word Kanji="天気" Kana="てんき" English="weather" Romaji="tenki" Katakana="テンキ" Hiragana="てんき" />
+	<Word Kanji="電気" Kana="でんき" English="electricity,electric light" Romaji="denki" Katakana="デンキ" Hiragana="でんき" />
+	<Word Kanji="電車" Kana="でんしゃ" English="electric train" Romaji="densha" Katakana="デンシャ" Hiragana="でんしゃ" />
+	<Word Kanji="電話" Kana="でんわ" English="telephone" Romaji="denwa" Katakana="デンワ" Hiragana="でんわ" />
+	<Word Kanji="戸" Kana="と" English="Japanese style door" Romaji="to" Katakana="ト" Hiragana="と" />
+	<Word Kanji="" Kana="ドア" English="Western style door" Romaji="doa" Katakana="ドア" Hiragana="どあ" />
+	<Word Kanji="" Kana="トイレ" English="toilet" Romaji="toire" Katakana="トイレ" Hiragana="といれ" />
+	<Word Kanji="" Kana="どう" English="how,in what way" Romaji="dou" Katakana="ドウ" Hiragana="どう" />
+	<Word Kanji="" Kana="どうして" English="for what reason" Romaji="doushite" Katakana="ドウシテ" Hiragana="どうして" />
+	<Word Kanji="" Kana="どうぞ" English="please" Romaji="douzo" Katakana="ドウゾ" Hiragana="どうぞ" />
+	<Word Kanji="動物" Kana="どうぶつ" English="animal" Romaji="doubutsu" Katakana="ドウブツ" Hiragana="どうぶつ" />
+	<Word Kanji="" Kana="どうも" English="thanks" Romaji="doumo" Katakana="ドウモ" Hiragana="どうも" />
+	<Word Kanji="遠い" Kana="とおい" English="far" Romaji="tooi" Katakana="トオイ" Hiragana="とおい" />
+	<Word Kanji="十日" Kana="とおか" English="ten days,the tenth day" Romaji="tooka" Katakana="トオカ" Hiragana="とおか" />
+	<Word Kanji="時々" Kana="ときどき" English="sometimes" Romaji="tokidoki" Katakana="トキドキ" Hiragana="ときどき" />
+	<Word Kanji="時計" Kana="とけい" English="watch,clock" Romaji="tokei" Katakana="トケイ" Hiragana="とけい" />
+	<Word Kanji="" Kana="どこ" English="where" Romaji="doko" Katakana="ドコ" Hiragana="どこ" />
+	<Word Kanji="所" Kana="ところ" English="place" Romaji="tokoro" Katakana="トコロ" Hiragana="ところ" />
+	<Word Kanji="年" Kana="とし" English="year" Romaji="toshi" Katakana="トシ" Hiragana="とし" />
+	<Word Kanji="図書館" Kana="としょかん" English="library" Romaji="toshokan" Katakana="トショカン" Hiragana="としょかん" />
+	<Word Kanji="" Kana="どちら" English="which of two" Romaji="dochira" Katakana="ドチラ" Hiragana="どちら" />
+	<Word Kanji="" Kana="どっち" English="which" Romaji="docchi" Katakana="ドッチ" Hiragana="どっち" />
+	<Word Kanji="" Kana="とても" English="very" Romaji="totemo" Katakana="トテモ" Hiragana="とても" />
+	<Word Kanji="" Kana="どなた" English="who" Romaji="donata" Katakana="ドナタ" Hiragana="どなた" />
+	<Word Kanji="隣" Kana="となり" English="next door to" Romaji="tonari" Katakana="トナリ" Hiragana="となり" />
+	<Word Kanji="" Kana="どの" English="which" Romaji="dono" Katakana="ドノ" Hiragana="どの" />
+	<Word Kanji="飛ぶ" Kana="とぶ" English="to fly,to hop" Romaji="tobu" Katakana="トブ" Hiragana="とぶ" />
+	<Word Kanji="止まる" Kana="とまる" English="to come to a halt" Romaji="tomaru" Katakana="トマル" Hiragana="とまる" />
+	<Word Kanji="友達" Kana="ともだち" English="friend" Romaji="tomodachi" Katakana="トモダチ" Hiragana="ともだち" />
+	<Word Kanji="土曜日" Kana="どようび" English="Saturday" Romaji="doyoubi" Katakana="ドヨウビ" Hiragana="どようび" />
+	<Word Kanji="鳥" Kana="とり" English="bird" Romaji="tori" Katakana="トリ" Hiragana="とり" />
+	<Word Kanji="とり肉" Kana="とりにく" English="chicken meat" Romaji="toriniku" Katakana="トリニク" Hiragana="とりにく" />
+	<Word Kanji="取る" Kana="とる" English="to take something" Romaji="toru" Katakana="トル" Hiragana="とる" />
+	<Word Kanji="撮る" Kana="とる" English="to take a photo or record a film" Romaji="toru" Katakana="トル" Hiragana="とる" />
+	<Word Kanji="" Kana="どれ" English="which (of three or more)" Romaji="dore" Katakana="ドレ" Hiragana="どれ" />
+	<Word Kanji="" Kana="ナイフ" English="knife" Romaji="naifu" Katakana="ナイフ" Hiragana="ないふ" />
+	<Word Kanji="中" Kana="なか" English="middle" Romaji="naka" Katakana="ナカ" Hiragana="なか" />
+	<Word Kanji="長い" Kana="ながい" English="long" Romaji="nagai" Katakana="ナガイ" Hiragana="ながい" />
+	<Word Kanji="鳴く" Kana="なく" English="animal noise. to chirp, roar or croak etc." Romaji="naku" Katakana="ナク" Hiragana="なく" />
+	<Word Kanji="無くす" Kana="なくす" English="to lose something" Romaji="nakusu" Katakana="ナクス" Hiragana="なくす" />
+	<Word Kanji="" Kana="なぜ" English="why" Romaji="naze" Katakana="ナゼ" Hiragana="なぜ" />
+	<Word Kanji="夏" Kana="なつ" English="summer" Romaji="natsu" Katakana="ナツ" Hiragana="なつ" />
+	<Word Kanji="夏休み" Kana="なつやすみ" English="summer holiday" Romaji="natsuyasumi" Katakana="ナツヤスミ" Hiragana="なつやすみ" />
+	<Word Kanji="" Kana="など" English="et cetera" Romaji="nado" Katakana="ナド" Hiragana="など" />
+	<Word Kanji="七つ" Kana="ななつ" English="seven" Romaji="nanatsu" Katakana="ナナツ" Hiragana="ななつ" />
+	<Word Kanji="七日" Kana="なのか" English="seven days,the seventh day" Romaji="nanoka" Katakana="ナノカ" Hiragana="なのか" />
+	<Word Kanji="名前" Kana="なまえ" English="name" Romaji="namae" Katakana="ナマエ" Hiragana="なまえ" />
+	<Word Kanji="習う" Kana="ならう" English="to learn" Romaji="narau" Katakana="ナラウ" Hiragana="ならう" />
+	<Word Kanji="並ぶ" Kana="ならぶ" English="to line up,to stand in a line" Romaji="narabu" Katakana="ナラブ" Hiragana="ならぶ" />
+	<Word Kanji="並べる" Kana="ならべる" English="to line up,to set up" Romaji="naraberu" Katakana="ナラベル" Hiragana="ならべる" />
+	<Word Kanji="" Kana="なる" English="to become" Romaji="naru" Katakana="ナル" Hiragana="なる" />
+	<Word Kanji="何" Kana="なん/なに" English="what" Romaji="nan/nani" Katakana="ナン/ナニ" Hiragana="なん/なに" />
+	<Word Kanji="二" Kana="に" English="two" Romaji="ni" Katakana="ニ" Hiragana="に" />
+	<Word Kanji="賑やか" Kana="にぎやか" English="bustling,busy" Romaji="nigiyaka" Katakana="ニギヤカ" Hiragana="にぎやか" />
+	<Word Kanji="肉" Kana="にく" English="meat" Romaji="niku" Katakana="ニク" Hiragana="にく" />
+	<Word Kanji="西" Kana="にし" English="west" Romaji="nishi" Katakana="ニシ" Hiragana="にし" />
+	<Word Kanji="日曜日" Kana="にちようび" English="Sunday" Romaji="nichiyoubi" Katakana="ニチヨウビ" Hiragana="にちようび" />
+	<Word Kanji="荷物" Kana="にもつ" English="luggage" Romaji="nimotsu" Katakana="ニモツ" Hiragana="にもつ" />
+	<Word Kanji="" Kana="ニュース" English="news" Romaji="nyuusu" Katakana="ニュース" Hiragana="にゅ゜す" />
+	<Word Kanji="庭" Kana="にわ" English="garden" Romaji="niwa" Katakana="ニワ" Hiragana="にわ" />
+	<Word Kanji="脱ぐ" Kana="ぬぐ" English="to take off clothes" Romaji="nugu" Katakana="ヌグ" Hiragana="ぬぐ" />
+	<Word Kanji="温い" Kana="ぬるい" English="luke warm" Romaji="nurui" Katakana="ヌルイ" Hiragana="ぬるい" />
+	<Word Kanji="" Kana="ネクタイ" English="tie,necktie" Romaji="nekutai" Katakana="ネクタイ" Hiragana="ねくたい" />
+	<Word Kanji="猫" Kana="ねこ" English="cat" Romaji="neko" Katakana="ネコ" Hiragana="ねこ" />
+	<Word Kanji="寝る" Kana="ねる" English="to go to bed,to sleep" Romaji="neru" Katakana="ネル" Hiragana="ねる" />
+	<Word Kanji="" Kana="ノート" English="notebook,exercise book" Romaji="nooto" Katakana="ノート" Hiragana="の゜と" />
+	<Word Kanji="登る" Kana="のぼる" English="to climb" Romaji="noboru" Katakana="ノボル" Hiragana="のぼる" />
+	<Word Kanji="飲み物" Kana="のみもの" English="a drink" Romaji="nomimono" Katakana="ノミモノ" Hiragana="のみもの" />
+	<Word Kanji="飲む" Kana="のむ" English="to drink" Romaji="nomu" Katakana="ノム" Hiragana="のむ" />
+	<Word Kanji="乗る" Kana="のる" English="to get on,to ride" Romaji="noru" Katakana="ノル" Hiragana="のる" />
+	<Word Kanji="歯" Kana="は" English="tooth" Romaji="ha" Katakana="ハ" Hiragana="は" />
+	<Word Kanji="" Kana="パーティー" English="party" Romaji="paatii" Katakana="パーティー" Hiragana="ぱ゜てぃ゜" />
+	<Word Kanji="" Kana="はい" English="yes" Romaji="hai" Katakana="ハイ" Hiragana="はい" />
+	<Word Kanji="灰皿" Kana="はいざら" English="ashtray" Romaji="haizara" Katakana="ハイザラ" Hiragana="はいざら" />
+	<Word Kanji="入る" Kana="はいる" English="to enter,to contain" Romaji="hairu" Katakana="ハイル" Hiragana="はいる" />
+	<Word Kanji="葉書" Kana="はがき" English="postcard" Romaji="hagaki" Katakana="ハガキ" Hiragana="はがき" />
+	<Word Kanji="" Kana="はく" English="to wear,to put on trousers" Romaji="haku" Katakana="ハク" Hiragana="はく" />
+	<Word Kanji="箱" Kana="はこ" English="box" Romaji="hako" Katakana="ハコ" Hiragana="はこ" />
+	<Word Kanji="橋" Kana="はし" English="bridge" Romaji="hashi" Katakana="ハシ" Hiragana="はし" />
+	<Word Kanji="" Kana="はし" English="chopsticks" Romaji="hashi" Katakana="ハシ" Hiragana="はし" />
+	<Word Kanji="始まる" Kana="はじまる" English="to begin" Romaji="hajimaru" Katakana="ハジマル" Hiragana="はじまる" />
+	<Word Kanji="初め/始め" Kana="はじめ" English="beginning" Romaji="hajime" Katakana="ハジメ" Hiragana="はじめ" />
+	<Word Kanji="初めて" Kana="はじめて" English="for the first time" Romaji="hajimete" Katakana="ハジメテ" Hiragana="はじめて" />
+	<Word Kanji="走る" Kana="はしる" English="to run" Romaji="hashiru" Katakana="ハシル" Hiragana="はしる" />
+	<Word Kanji="" Kana="バス" English="bus" Romaji="basu" Katakana="バス" Hiragana="ばす" />
+	<Word Kanji="" Kana="バター" English="butter" Romaji="bataa" Katakana="バター" Hiragana="ばた゜" />
+	<Word Kanji="二十歳" Kana="はたち" English="20 years old,20th year" Romaji="hatachi" Katakana="ハタチ" Hiragana="はたち" />
+	<Word Kanji="働く" Kana="はたらく" English="to work" Romaji="hataraku" Katakana="ハタラク" Hiragana="はたらく" />
+	<Word Kanji="八" Kana="はち" English="eight" Romaji="hachi" Katakana="ハチ" Hiragana="はち" />
+	<Word Kanji="二十日" Kana="はつか" English="twenty days,twentieth" Romaji="hatsuka" Katakana="ハツカ" Hiragana="はつか" />
+	<Word Kanji="花" Kana="はな" English="flower" Romaji="hana" Katakana="ハナ" Hiragana="はな" />
+	<Word Kanji="鼻" Kana="はな" English="nose" Romaji="hana" Katakana="ハナ" Hiragana="はな" />
+	<Word Kanji="話" Kana="はなし" English="talk,story" Romaji="hanashi" Katakana="ハナシ" Hiragana="はなし" />
+	<Word Kanji="話す" Kana="はなす" English="to speak" Romaji="hanasu" Katakana="ハナス" Hiragana="はなす" />
+	<Word Kanji="早い" Kana="はやい" English="early" Romaji="hayai" Katakana="ハヤイ" Hiragana="はやい" />
+	<Word Kanji="速い" Kana="はやい" English="quick" Romaji="hayai" Katakana="ハヤイ" Hiragana="はやい" />
+	<Word Kanji="春" Kana="はる" English="spring" Romaji="haru" Katakana="ハル" Hiragana="はる" />
+	<Word Kanji="貼る" Kana="はる" English="to stick" Romaji="haru" Katakana="ハル" Hiragana="はる" />
+	<Word Kanji="晴れ" Kana="はれ" English="clear weather" Romaji="hare" Katakana="ハレ" Hiragana="はれ" />
+	<Word Kanji="晴れる" Kana="はれる" English="to be sunny" Romaji="hareru" Katakana="ハレル" Hiragana="はれる" />
+	<Word Kanji="半" Kana="はん" English="half" Romaji="han" Katakana="ハン" Hiragana="はん" />
+	<Word Kanji="晩" Kana="ばん" English="evening" Romaji="ban" Katakana="バン" Hiragana="ばん" />
+	<Word Kanji="" Kana="パン" English="bread" Romaji="pan" Katakana="パン" Hiragana="ぱん" />
+	<Word Kanji="" Kana="ハンカチ" English="handkerchief" Romaji="hankachi" Katakana="ハンカチ" Hiragana="はんかち" />
+	<Word Kanji="番号" Kana="ばんごう" English="number" Romaji="bangou" Katakana="バンゴウ" Hiragana="ばんごう" />
+	<Word Kanji="晩御飯" Kana="ばんごはん" English="evening meal" Romaji="bangohan" Katakana="バンゴハン" Hiragana="ばんごはん" />
+	<Word Kanji="半分" Kana="はんぶん" English="half minute" Romaji="hanbun" Katakana="ハンブン" Hiragana="はんぶん" />
+	<Word Kanji="東" Kana="ひがし" English="east" Romaji="higashi" Katakana="ヒガシ" Hiragana="ひがし" />
+	<Word Kanji="引く" Kana="ひく" English="to pull" Romaji="hiku" Katakana="ヒク" Hiragana="ひく" />
+	<Word Kanji="弾く" Kana="ひく" English="to play an instrument with strings, including piano" Romaji="hiku" Katakana="ヒク" Hiragana="ひく" />
+	<Word Kanji="低い" Kana="ひくい" English="short,low" Romaji="hikui" Katakana="ヒクイ" Hiragana="ひくい" />
+	<Word Kanji="飛行機" Kana="ひこうき" English="aeroplane" Romaji="hikouki" Katakana="ヒコウキ" Hiragana="ひこうき" />
+	<Word Kanji="左" Kana="ひだり" English="left hand side" Romaji="hidari" Katakana="ヒダリ" Hiragana="ひだり" />
+	<Word Kanji="人" Kana="ひと" English="person" Romaji="hito" Katakana="ヒト" Hiragana="ひと" />
+	<Word Kanji="一つ" Kana="ひとつ" English="one" Romaji="hitotsu" Katakana="ヒトツ" Hiragana="ひとつ" />
+	<Word Kanji="一月" Kana="ひとつき" English="one month" Romaji="hitotsuki" Katakana="ヒトツキ" Hiragana="ひとつき" />
+	<Word Kanji="一人" Kana="ひとり" English="one person" Romaji="hitori" Katakana="ヒトリ" Hiragana="ひとり" />
+	<Word Kanji="暇" Kana="ひま" English="free time" Romaji="hima" Katakana="ヒマ" Hiragana="ひま" />
+	<Word Kanji="百" Kana="ひゃく" English="hundred" Romaji="hyaku" Katakana="ヒャク" Hiragana="ひゃく" />
+	<Word Kanji="病院" Kana="びょういん" English="hospital" Romaji="byouin" Katakana="ビョウイン" Hiragana="びょういん" />
+	<Word Kanji="病気" Kana="びょうき" English="illness" Romaji="byouki" Katakana="ビョウキ" Hiragana="びょうき" />
+	<Word Kanji="昼" Kana="ひる" English="noon, daytime" Romaji="hiru" Katakana="ヒル" Hiragana="ひる" />
+	<Word Kanji="昼御飯" Kana="ひるごはん" English="midday meal" Romaji="hirugohan" Katakana="ヒルゴハン" Hiragana="ひるごはん" />
+	<Word Kanji="広い" Kana="ひろい" English="spacious,wide" Romaji="hiroi" Katakana="ヒロイ" Hiragana="ひろい" />
+	<Word Kanji="" Kana="フィルム" English="roll of film" Romaji="firumu" Katakana="フィルム" Hiragana="ふぃるむ" />
+	<Word Kanji="封筒" Kana="ふうとう" English="envelope" Romaji="fuutou" Katakana="フウトウ" Hiragana="ふうとう" />
+	<Word Kanji="" Kana="プール" English="swimming pool" Romaji="puuru" Katakana="プール" Hiragana="ぷ゜る" />
+	<Word Kanji="" Kana="フォーク" English="fork" Romaji="fooku" Katakana="フォーク" Hiragana="ふぉ゜く" />
+	<Word Kanji="吹く" Kana="ふく" English="to blow" Romaji="fuku" Katakana="フク" Hiragana="ふく" />
+	<Word Kanji="服" Kana="ふく" English="clothes" Romaji="fuku" Katakana="フク" Hiragana="ふく" />
+	<Word Kanji="二つ" Kana="ふたつ" English="two" Romaji="futatsu" Katakana="フタツ" Hiragana="ふたつ" />
+	<Word Kanji="豚肉" Kana="ぶたにく" English="pork" Romaji="butaniku" Katakana="ブタニク" Hiragana="ぶたにく" />
+	<Word Kanji="二人" Kana="ふたり" English="two people" Romaji="futari" Katakana="フタリ" Hiragana="ふたり" />
+	<Word Kanji="二日" Kana="ふつか" English="two days, second day of the month" Romaji="futsuka" Katakana="フツカ" Hiragana="ふつか" />
+	<Word Kanji="太い" Kana="ふとい" English="fat" Romaji="futoi" Katakana="フトイ" Hiragana="ふとい" />
+	<Word Kanji="冬" Kana="ふゆ" English="winter" Romaji="fuyu" Katakana="フユ" Hiragana="ふゆ" />
+	<Word Kanji="降る" Kana="ふる" English="to fall, e.g. rain or snow" Romaji="furu" Katakana="フル" Hiragana="ふる" />
+	<Word Kanji="古い" Kana="ふるい" English="old (not used for people)" Romaji="furui" Katakana="フルイ" Hiragana="ふるい" />
+	<Word Kanji="" Kana="ふろ" English="bath" Romaji="furo" Katakana="フロ" Hiragana="ふろ" />
+	<Word Kanji="文章" Kana="ぶんしょう" English="sentence,text" Romaji="bunshou" Katakana="ブンショウ" Hiragana="ぶんしょう" />
+	<Word Kanji="" Kana="ページ" English="page" Romaji="peeji" Katakana="ページ" Hiragana="ぺ゜じ" />
+	<Word Kanji="下手" Kana="へた" English="unskillful" Romaji="heta" Katakana="ヘタ" Hiragana="へた" />
+	<Word Kanji="" Kana="ベッド" English="bed" Romaji="beddo" Katakana="ベッド" Hiragana="べっど" />
+	<Word Kanji="" Kana="ペット" English="pet" Romaji="petto" Katakana="ペット" Hiragana="ぺっと" />
+	<Word Kanji="部屋" Kana="へや" English="room" Romaji="heya" Katakana="ヘヤ" Hiragana="へや" />
+	<Word Kanji="辺" Kana="へん" English="area" Romaji="hen" Katakana="ヘン" Hiragana="へん" />
+	<Word Kanji="" Kana="ペン" English="pen" Romaji="pen" Katakana="ペン" Hiragana="ぺん" />
+	<Word Kanji="勉強" Kana="べんきょうする" English="to study" Romaji="benkyousuru" Katakana="ベンキョウスル" Hiragana="べんきょうする" />
+	<Word Kanji="便利" Kana="べんり" English="useful, convenient" Romaji="benri" Katakana="ベンリ" Hiragana="べんり" />
+	<Word Kanji="帽子" Kana="ぼうし" English="hat" Romaji="boushi" Katakana="ボウシ" Hiragana="ぼうし" />
+	<Word Kanji="" Kana="ボールペン" English="ball-point pen" Romaji="boorupen" Katakana="ボールペン" Hiragana="ぼ゜るぺん" />
+	<Word Kanji="" Kana="ほか" English="other, the rest" Romaji="hoka" Katakana="ホカ" Hiragana="ほか" />
+	<Word Kanji="" Kana="ポケット" English="pocket" Romaji="poketto" Katakana="ポケット" Hiragana="ぽけっと" />
+	<Word Kanji="欲しい" Kana="ほしい" English="want" Romaji="hoshii" Katakana="ホシイ" Hiragana="ほしい" />
+	<Word Kanji="" Kana="ポスト" English="post" Romaji="posuto" Katakana="ポスト" Hiragana="ぽすと" />
+	<Word Kanji="細い" Kana="ほそい" English="thin" Romaji="hosoi" Katakana="ホソイ" Hiragana="ほそい" />
+	<Word Kanji="" Kana="ボタン" English="button" Romaji="botan" Katakana="ボタン" Hiragana="ぼたん" />
+	<Word Kanji="" Kana="ホテル" English="hotel" Romaji="hoteru" Katakana="ホテル" Hiragana="ほてる" />
+	<Word Kanji="本" Kana="ほん" English="book" Romaji="hon" Katakana="ホン" Hiragana="ほん" />
+	<Word Kanji="本棚" Kana="ほんだな" English="bookshelves" Romaji="hondana" Katakana="ホンダナ" Hiragana="ほんだな" />
+	<Word Kanji="" Kana="ほんとう" English="truth" Romaji="hontou" Katakana="ホントウ" Hiragana="ほんとう" />
+	<Word Kanji="毎朝" Kana="まいあさ" English="every morning" Romaji="maiasa" Katakana="マイアサ" Hiragana="まいあさ" />
+	<Word Kanji="毎月" Kana="まいげつ/まいつき" English="every month" Romaji="maigetsu/maitsuki" Katakana="マイゲツ/マイツキ" Hiragana="まいげつ/まいつき" />
+	<Word Kanji="毎週" Kana="まいしゅう" English="every week" Romaji="maishuu" Katakana="マイシュウ" Hiragana="まいしゅう" />
+	<Word Kanji="毎日" Kana="まいにち" English="every day" Romaji="mainichi" Katakana="マイニチ" Hiragana="まいにち" />
+	<Word Kanji="毎年" Kana="まいねん/まいとし" English="every year" Romaji="mainen/maitoshi" Katakana="マイネン/マイトシ" Hiragana="まいねん/まいとし" />
+	<Word Kanji="毎晩" Kana="まいばん" English="every night" Romaji="maiban" Katakana="マイバン" Hiragana="まいばん" />
+	<Word Kanji="前" Kana="まえ" English="before" Romaji="mae" Katakana="マエ" Hiragana="まえ" />
+	<Word Kanji="曲る" Kana="まがる" English="to turn,to bend" Romaji="magaru" Katakana="マガル" Hiragana="まがる" />
+	<Word Kanji="" Kana="まずい" English="unpleasant" Romaji="mazui" Katakana="マズイ" Hiragana="まずい" />
+	<Word Kanji="" Kana="また" English="again,and" Romaji="mata" Katakana="マタ" Hiragana="また" />
+	<Word Kanji="" Kana="まだ" English="yet,still" Romaji="mada" Katakana="マダ" Hiragana="まだ" />
+	<Word Kanji="町" Kana="まち" English="town,city" Romaji="machi" Katakana="マチ" Hiragana="まち" />
+	<Word Kanji="待つ" Kana="まつ" English="to wait" Romaji="matsu" Katakana="マツ" Hiragana="まつ" />
+	<Word Kanji="" Kana="まっすぐ" English="straight ahead,direct" Romaji="massugu" Katakana="マッスグ" Hiragana="まっすぐ" />
+	<Word Kanji="" Kana="マッチ" English="match" Romaji="macchi" Katakana="マッチ" Hiragana="まっち" />
+	<Word Kanji="窓" Kana="まど" English="window" Romaji="mado" Katakana="マド" Hiragana="まど" />
+	<Word Kanji="丸い/円い" Kana="まるい" English="round,circular" Romaji="marui" Katakana="マルイ" Hiragana="まるい" />
+	<Word Kanji="万" Kana="まん" English="ten thousand" Romaji="man" Katakana="マン" Hiragana="まん" />
+	<Word Kanji="万年筆" Kana="まんねんひつ" English="fountain pen" Romaji="mannenhitsu" Katakana="マンネンヒツ" Hiragana="まんねんひつ" />
+	<Word Kanji="磨く" Kana="みがく" English="to brush teeth, to polish" Romaji="migaku" Katakana="ミガク" Hiragana="みがく" />
+	<Word Kanji="右" Kana="みぎ" English="right side" Romaji="migi" Katakana="ミギ" Hiragana="みぎ" />
+	<Word Kanji="短い" Kana="みじかい" English="short" Romaji="mijikai" Katakana="ミジカイ" Hiragana="みじかい" />
+	<Word Kanji="水" Kana="みず" English="water" Romaji="mizu" Katakana="ミズ" Hiragana="みず" />
+	<Word Kanji="店" Kana="みせ" English="shop" Romaji="mise" Katakana="ミセ" Hiragana="みせ" />
+	<Word Kanji="見せる" Kana="みせる" English="to show" Romaji="miseru" Katakana="ミセル" Hiragana="みせる" />
+	<Word Kanji="道" Kana="みち" English="street" Romaji="michi" Katakana="ミチ" Hiragana="みち" />
+	<Word Kanji="三日" Kana="みっか" English="three days, third day of the month" Romaji="mikka" Katakana="ミッカ" Hiragana="みっか" />
+	<Word Kanji="三つ" Kana="みっつ" English="three" Romaji="mittsu" Katakana="ミッツ" Hiragana="みっつ" />
+	<Word Kanji="緑" Kana="みどり" English="green" Romaji="midori" Katakana="ミドリ" Hiragana="みどり" />
+	<Word Kanji="皆さん" Kana="みなさん" English="everyone" Romaji="minasan" Katakana="ミナサン" Hiragana="みなさん" />
+	<Word Kanji="南" Kana="みなみ" English="south" Romaji="minami" Katakana="ミナミ" Hiragana="みなみ" />
+	<Word Kanji="耳" Kana="みみ" English="ear" Romaji="mimi" Katakana="ミミ" Hiragana="みみ" />
+	<Word Kanji="見る 観る" Kana="みる" English="to see, to watch" Romaji="miru" Katakana="ミル" Hiragana="みる" />
+	<Word Kanji="" Kana="みんな" English="everyone" Romaji="minna" Katakana="ミンナ" Hiragana="みんな" />
+	<Word Kanji="六日" Kana="むいか" English="six days, sixth day of the month" Romaji="muika" Katakana="ムイカ" Hiragana="むいか" />
+	<Word Kanji="向こう" Kana="むこう" English="over there" Romaji="mukou" Katakana="ムコウ" Hiragana="むこう" />
+	<Word Kanji="難しい" Kana="むずかしい" English="difficult" Romaji="muzukashii" Katakana="ムズカシイ" Hiragana="むずかしい" />
+	<Word Kanji="六つ" Kana="むっつ" English="six" Romaji="muttsu" Katakana="ムッツ" Hiragana="むっつ" />
+	<Word Kanji="村" Kana="むら" English="village" Romaji="mura" Katakana="ムラ" Hiragana="むら" />
+	<Word Kanji="目" Kana="め" English="eye" Romaji="me" Katakana="メ" Hiragana="め" />
+	<Word Kanji="" Kana="メートル" English="metre" Romaji="meetoru" Katakana="メートル" Hiragana="め゜とる" />
+	<Word Kanji="眼鏡" Kana="めがね" English="glasses" Romaji="megane" Katakana="メガネ" Hiragana="めがね" />
+	<Word Kanji="" Kana="もう" English="already" Romaji="mou" Katakana="モウ" Hiragana="もう" />
+	<Word Kanji="もう一度" Kana="もういちど" English="again" Romaji="mouichido" Katakana="モウイチド" Hiragana="もういちど" />
+	<Word Kanji="木曜日" Kana="もくようび" English="Thursday" Romaji="mokuyoubi" Katakana="モクヨウビ" Hiragana="もくようび" />
+	<Word Kanji="持つ" Kana="もつ" English="to hold" Romaji="motsu" Katakana="モツ" Hiragana="もつ" />
+	<Word Kanji="" Kana="もっと" English="more" Romaji="motto" Katakana="モット" Hiragana="もっと" />
+	<Word Kanji="物" Kana="もの" English="thing" Romaji="mono" Katakana="モノ" Hiragana="もの" />
+	<Word Kanji="門" Kana="もん" English="gate" Romaji="mon" Katakana="モン" Hiragana="もん" />
+	<Word Kanji="問題" Kana="もんだい" English="problem" Romaji="mondai" Katakana="モンダイ" Hiragana="もんだい" />
+	<Word Kanji="八百屋" Kana="やおや" English="greengrocer" Romaji="yaoya" Katakana="ヤオヤ" Hiragana="やおや" />
+	<Word Kanji="野菜" Kana="やさい" English="vegetable" Romaji="yasai" Katakana="ヤサイ" Hiragana="やさい" />
+	<Word Kanji="易しい" Kana="やさしい" English="easy, simple" Romaji="yasashii" Katakana="ヤサシイ" Hiragana="やさしい" />
+	<Word Kanji="安い" Kana="やすい" English="cheap" Romaji="yasui" Katakana="ヤスイ" Hiragana="やすい" />
+	<Word Kanji="休み" Kana="やすみ" English="rest,holiday" Romaji="yasumi" Katakana="ヤスミ" Hiragana="やすみ" />
+	<Word Kanji="休む" Kana="やすむ" English="to rest" Romaji="yasumu" Katakana="ヤスム" Hiragana="やすむ" />
+	<Word Kanji="八つ" Kana="やっつ" English="eight" Romaji="yattsu" Katakana="ヤッツ" Hiragana="やっつ" />
+	<Word Kanji="山" Kana="やま" English="mountain" Romaji="yama" Katakana="ヤマ" Hiragana="やま" />
+	<Word Kanji="" Kana="やる" English="to do" Romaji="yaru" Katakana="ヤル" Hiragana="やる" />
+	<Word Kanji="夕方" Kana="ゆうがた" English="evening" Romaji="yuugata" Katakana="ユウガタ" Hiragana="ゆうがた" />
+	<Word Kanji="夕飯" Kana="ゆうはん" English="dinner" Romaji="yuuhan" Katakana="ユウハン" Hiragana="ゆうはん" />
+	<Word Kanji="郵便局" Kana="ゆうびんきょく" English="post office" Romaji="yuubinkyoku" Katakana="ユウビンキョク" Hiragana="ゆうびんきょく" />
+	<Word Kanji="昨夜" Kana="ゆうべ" English="last night" Romaji="yuube" Katakana="ユウベ" Hiragana="ゆうべ" />
+	<Word Kanji="有名" Kana="ゆうめい" English="famous" Romaji="yuumei" Katakana="ユウメイ" Hiragana="ゆうめい" />
+	<Word Kanji="雪" Kana="ゆき" English="snow" Romaji="yuki" Katakana="ユキ" Hiragana="ゆき" />
+	<Word Kanji="行く" Kana="ゆく" English="to go" Romaji="yuku" Katakana="ユク" Hiragana="ゆく" />
+	<Word Kanji="" Kana="ゆっくりと" English="slowly" Romaji="yukkurito" Katakana="ユックリト" Hiragana="ゆっくりと" />
+	<Word Kanji="八日" Kana="ようか" English="eight days, eighth day of the month" Romaji="youka" Katakana="ヨウカ" Hiragana="ようか" />
+	<Word Kanji="洋服" Kana="ようふく" English="western-style clothes" Romaji="youfuku" Katakana="ヨウフク" Hiragana="ようふく" />
+	<Word Kanji="" Kana="よく" English="often, well" Romaji="yoku" Katakana="ヨク" Hiragana="よく" />
+	<Word Kanji="横" Kana="よこ" English="beside,side,width" Romaji="yoko" Katakana="ヨコ" Hiragana="よこ" />
+	<Word Kanji="四日" Kana="よっか" English="four days, fouth day of the month" Romaji="yokka" Katakana="ヨッカ" Hiragana="よっか" />
+	<Word Kanji="四つ" Kana="よっつ" English="four" Romaji="yottsu" Katakana="ヨッツ" Hiragana="よっつ" />
+	<Word Kanji="呼ぶ" Kana="よぶ" English="to call out,to invite" Romaji="yobu" Katakana="ヨブ" Hiragana="よぶ" />
+	<Word Kanji="読む" Kana="よむ" English="to read" Romaji="yomu" Katakana="ヨム" Hiragana="よむ" />
+	<Word Kanji="夜" Kana="よる" English="evening,night" Romaji="yoru" Katakana="ヨル" Hiragana="よる" />
+	<Word Kanji="弱い" Kana="よわい" English="weak" Romaji="yowai" Katakana="ヨワイ" Hiragana="よわい" />
+	<Word Kanji="来月" Kana="らいげつ" English="next month" Romaji="raigetsu" Katakana="ライゲツ" Hiragana="らいげつ" />
+	<Word Kanji="来週" Kana="らいしゅう" English="next week" Romaji="raishuu" Katakana="ライシュウ" Hiragana="らいしゅう" />
+	<Word Kanji="来年" Kana="らいねん" English="next year" Romaji="rainen" Katakana="ライネン" Hiragana="らいねん" />
+	<Word Kanji="" Kana="ラジオ" English="radio" Romaji="rajio" Katakana="ラジオ" Hiragana="らじお" />
+	<Word Kanji="" Kana="ラジカセ / ラジオカセット" English="radio cassette player" Romaji="rajikase / rajiokasetto" Katakana="ラジカセ / ラジオカセット" Hiragana="らじかせ / らじおかせっと" />
+	<Word Kanji="" Kana="りっぱ" English="splendid" Romaji="rippa" Katakana="リッパ" Hiragana="りっぱ" />
+	<Word Kanji="留学生" Kana="りゅうがくせい" English="overseas student" Romaji="ryuugakusei" Katakana="リュウガクセイ" Hiragana="りゅうがくせい" />
+	<Word Kanji="両親" Kana="りょうしん" English="both parents" Romaji="ryoushin" Katakana="リョウシン" Hiragana="りょうしん" />
+	<Word Kanji="料理" Kana="りょうり" English="cuisine" Romaji="ryouri" Katakana="リョウリ" Hiragana="りょうり" />
+	<Word Kanji="旅行" Kana="りょこう" English="travel" Romaji="ryokou" Katakana="リョコウ" Hiragana="りょこう" />
+	<Word Kanji="零" Kana="れい" English="zero" Romaji="rei" Katakana="レイ" Hiragana="れい" />
+	<Word Kanji="冷蔵庫" Kana="れいぞうこ" English="refrigerator" Romaji="reizouko" Katakana="レイゾウコ" Hiragana="れいぞうこ" />
+	<Word Kanji="" Kana="レコード" English="record" Romaji="rekoodo" Katakana="レコード" Hiragana="れこ゜ど" />
+	<Word Kanji="" Kana="レストラン" English="restaurant" Romaji="resutoran" Katakana="レストラン" Hiragana="れすとらん" />
+	<Word Kanji="練習" Kana="れんしゅうする" English="to practice" Romaji="renshuusuru" Katakana="レンシュウスル" Hiragana="れんしゅうする" />
+	<Word Kanji="廊下" Kana="ろうか" English="corridor" Romaji="rouka" Katakana="ロウカ" Hiragana="ろうか" />
+	<Word Kanji="六" Kana="ろく" English="six" Romaji="roku" Katakana="ロク" Hiragana="ろく" />
+	<Word Kanji="" Kana="ワイシャツ" English="business shirt" Romaji="waishatsu" Katakana="ワイシャツ" Hiragana="わいしゃつ" />
+	<Word Kanji="若い" Kana="わかい" English="young" Romaji="wakai" Katakana="ワカイ" Hiragana="わかい" />
+	<Word Kanji="分かる" Kana="わかる" English="to be understood" Romaji="wakaru" Katakana="ワカル" Hiragana="わかる" />
+	<Word Kanji="忘れる" Kana="わすれる" English="to forget" Romaji="wasureru" Katakana="ワスレル" Hiragana="わすれる" />
+	<Word Kanji="私" Kana="わたくし" English="(humble) I,myself" Romaji="watakushi" Katakana="ワタクシ" Hiragana="わたくし" />
+	<Word Kanji="私" Kana="わたし" English="I,myself" Romaji="watashi" Katakana="ワタシ" Hiragana="わたし" />
+	<Word Kanji="渡す" Kana="わたす" English="to hand over" Romaji="watasu" Katakana="ワタス" Hiragana="わたす" />
+	<Word Kanji="渡る" Kana="わたる" English="to go across" Romaji="wataru" Katakana="ワタル" Hiragana="わたる" />
+	<Word Kanji="悪い" Kana="わるい" English="bad" Romaji="warui" Katakana="ワルイ" Hiragana="わるい" />
+</WORDDATA>

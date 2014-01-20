@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
+  <App xmlns="" ProductID="{d58b20dc-58c7-47e4-ac4d-70c539f1d4a3}" Title="JLPT Flashcards" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="Tyler Freedman" Description="A vocabulary-based flashcard program to study for the JLPT" Publisher="JLPT Flashcards">
+    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+    <Capabilities>
+    </Capabilities>
+    <Tasks>
+      <DefaultTask  Name ="_default" NavigationPage="MainPage.xaml"/>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="JLPTFlashcardsToken" TaskName="_default">
+        <TemplateType5>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
+          <Count>0</Count>
+          <Title>JLPT Flashcards</Title>
+        </TemplateType5>
+      </PrimaryToken>
+    </Tokens>
+  </App>
+</Deployment>

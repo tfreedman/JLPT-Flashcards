@@ -1,0 +1,15 @@
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\ApplicationIcon.png
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\Background.png
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\JLPTFlashcards.dll
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\JLPTFlashcards.pdb
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\AppManifest.xaml
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\Bin\Release\JLPTFlashcards.xap
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\ResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\App.g.i.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\Flashcards.g.i.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\MainPage.g.i.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\Teach.g.i.cs
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\JLPTFlashcards.g.resources
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\JLPTFlashcards.dll
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\JLPTFlashcards.pdb
+c:\users\tyler\documents\visual studio 2010\Projects\JLPTFlashcards\JLPTFlashcards\obj\Release\XapCacheFile.xml
