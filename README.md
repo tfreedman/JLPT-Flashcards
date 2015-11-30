@@ -4,13 +4,13 @@ JLPT Flashcards
 Note: this repository contains two distinct programs. While the first one allowed me to develop the second, they can be used independently.
 
 The first program, Kana Converter, is a utility for converting kana to romaji, written in C#. This utility is intended as an extension to Paweł Szczepański's library, found here: 
-http://kanjimap.wordpress.com/2010/01/31/kana-converter-in-c/
+https://kanjimap.wordpress.com/2010/01/31/kana-converter-in-c/
 
 For people trying to learn hiragana or katakana, it may be desirable to read Japanese words using English characters. This utility will convert a list of Japanese words into a a roughly equivalent string of Latin characters. However, it is important to note that the conversion isn't lossless. This means that converting from Japanese to English and back will NOT produce the same input string, for a number of reasons. It is exceedingly difficult to convert Japanese to English losslessly, given the number of different variations of Japanese romanization that exist. This tool should not be used as any kind of definitive resource on Japanese text conversion. Rather, it should be used to produce text that can be easily read by someone not well versed in kana.
 
-For a detailed breakdown of why this is so, see here: [Variations on Japanese romanization](http://nayuki.eigenstate.org/page/variations-on-japanese-romanization).
+For a detailed breakdown of why this is so, see here: [Variations on Japanese romanization](http://www.nayuki.io/page/variations-on-japanese-romanization).
 
- Paweł Szczepański's library is used extensively in this program. While it is an excellent library, it does not provide support for kana to romaji, only romaji to kana. I've written a library, JapaneseRomajiConverter.cs, which performs the reverse operation of Paweł Szczepański's code. Since it relies on his code to run, and his code is LGPL3, my library is also published under LGPLv3.
+Paweł Szczepański's library is used extensively in this program. While it is an excellent library, it does not provide support for kana to romaji, only romaji to kana. I've written a library, JapaneseRomajiConverter.cs, which performs the reverse operation of Paweł Szczepański's code. Since it relies on his code to run, and his code is LGPL3, my library is also published under LGPLv3.
 
 The code also relies on Sébastien Lorion's CSV reader, which is bundled with the code. This library is published under the MIT license.
 
@@ -56,13 +56,14 @@ All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright
-      notice, this list of conditions and the following disclaimer in the
-      documentation and/or other materials provided with the distribution.
-    * The name of the author may not be used to endorse or promote products
-      derived from this software without specific prior written permission.
+
+ * Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+ * The name of the author may not be used to endorse or promote products
+   derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
